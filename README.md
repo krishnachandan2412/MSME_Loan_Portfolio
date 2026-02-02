@@ -30,6 +30,5 @@ It focuses on NPAs, upcoming NPA risk, repayment behavior, collection effectiven
 ```text
 .
 ├─ msme.py                 # Streamlit dashboard (upload-only)
-├─ generate_sample_data.py # Optional script to create synthetic MSME data
 ├─ data/                   # (Optional) Folder where you can store your own CSVs
 └─ README.md
