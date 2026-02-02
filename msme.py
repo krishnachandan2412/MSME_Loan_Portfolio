@@ -328,7 +328,7 @@ def main():
     st.sidebar.title("📁 Data Source")
 
     uploaded = st.sidebar.file_uploader(
-        "Upload MSME portfolio CSV (from generate_sample_data.py)",
+        "Upload MSME portfolio CSV ",
         type=["csv"],
     )
 
@@ -432,4 +432,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
