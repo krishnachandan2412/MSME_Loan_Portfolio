@@ -1,0 +1,801 @@
+customer_id,segment,status,dpd,profession,payment_regular,payment_method,loan_amount,emi_amount,paid_emis,total_emis,created_date,last_payment_date,got_legal_notice,visit_covered,irregular_reason
+CUST00001,Healthy,Regular,3,Business,False,Cash,254886,4248.1,28,60,2025-06-03,2026-01-30,False,True,Business loss
+CUST00002,Healthy,Regular,4,Business,False,Cash,987201,16453.35,33,60,2024-08-30,2026-01-29,False,True,Other
+CUST00003,Healthy,Regular,1,Salaried,True,Cash,358795,5979.92,34,60,2024-06-22,2026-02-01,False,True,None
+CUST00004,Healthy,Regular,2,Business,True,Cash,848143,14135.72,24,60,2025-06-28,2026-01-31,False,True,None
+CUST00005,Healthy,Regular,2,Self-Employed,False,Cash,481236,8020.6,60,60,2024-03-28,2026-01-31,False,True,Fake loans/fake businesses
+CUST00006,Healthy,Regular,1,Business,False,Digital,931912,15531.87,35,60,2024-06-18,2026-02-01,False,True,Fake loans/fake businesses
+CUST00007,Healthy,Regular,3,Self-Employed,True,Cash,256530,4275.5,23,60,2025-10-15,2026-01-30,False,True,None
+CUST00008,Healthy,Regular,3,Salaried,True,Cash,340181,5669.68,51,60,2024-09-14,2026-01-30,False,True,None
+CUST00009,Healthy,Regular,1,Business,False,Digital,735822,12263.7,17,60,2024-09-29,2026-02-01,False,True,Fake loans/fake businesses
+CUST00010,Healthy,Regular,0,Business,False,Digital,807086,13451.43,33,60,2025-06-01,2026-02-02,False,True,Bank employee misuse
+CUST00011,Healthy,Regular,3,Self-Employed,True,Cash,198984,3316.4,16,60,2024-08-01,2026-01-30,False,True,None
+CUST00012,Healthy,Regular,0,Salaried,True,Digital,401648,6694.13,17,60,2024-02-29,2026-02-02,False,True,None
+CUST00013,Healthy,Regular,2,Business,True,Cash,828776,13812.93,37,60,2025-08-22,2026-01-31,False,True,None
+CUST00014,Healthy,Regular,0,Business,True,Cash,801661,13361.02,33,60,2025-09-27,2026-02-02,False,True,None
+CUST00015,Healthy,Regular,3,Business,False,Cash,339182,5653.03,23,60,2024-04-01,2026-01-30,False,True,Other
+CUST00016,Healthy,Regular,1,Salaried,True,Cash,493422,8223.7,24,60,2024-06-29,2026-02-01,False,True,None
+CUST00017,Healthy,Regular,3,Salaried,True,Cash,207059,3450.98,41,60,2024-09-06,2026-01-30,False,True,None
+CUST00018,Healthy,Regular,4,Self-Employed,True,Digital,529989,8833.15,37,60,2024-06-05,2026-01-29,False,True,None
+CUST00019,Healthy,Regular,1,Business,False,Digital,967595,16126.58,53,60,2025-01-29,2026-02-01,False,True,Other
+CUST00020,Healthy,Regular,2,Self-Employed,True,Cash,537261,8954.35,42,60,2024-12-15,2026-01-31,False,True,None
+CUST00021,Healthy,Regular,0,Business,True,Cash,602690,10044.83,48,60,2024-10-05,2026-02-02,False,True,None
+CUST00022,Healthy,Regular,2,Self-Employed,True,Cash,315838,5263.97,41,60,2024-05-06,2026-01-31,False,True,None
+CUST00023,Healthy,Regular,0,Self-Employed,True,Cash,364283,6071.38,48,60,2024-12-14,2026-02-02,False,True,None
+CUST00024,Healthy,Regular,2,Self-Employed,True,Cash,375281,6254.68,11,60,2025-05-29,2026-01-31,False,True,None
+CUST00025,Healthy,Regular,4,Self-Employed,False,Cash,275657,4594.28,41,60,2024-11-14,2026-01-29,False,True,Other
+CUST00026,Healthy,Regular,2,Self-Employed,True,Digital,518452,8640.87,43,60,2025-06-20,2026-01-31,False,True,None
+CUST00027,Healthy,Regular,2,Business,False,Cash,810490,13508.17,15,60,2024-09-27,2026-01-31,False,True,Wrong documents/fake address
+CUST00028,Healthy,Regular,3,Self-Employed,True,Digital,292483,4874.72,41,60,2024-09-02,2026-01-30,False,True,None
+CUST00029,Healthy,Regular,0,Self-Employed,True,Digital,158155,2635.92,34,60,2025-08-06,2026-02-02,False,True,None
+CUST00030,Healthy,Regular,1,Self-Employed,False,Digital,257512,4291.87,58,60,2026-01-02,2026-02-01,False,True,Other
+CUST00031,Healthy,Regular,3,Self-Employed,False,Cash,419544,6992.4,44,60,2024-03-16,2026-01-30,False,True,Other
+CUST00032,Healthy,Regular,2,Business,True,Digital,622515,10375.25,20,60,2024-04-19,2026-01-31,False,True,None
+CUST00033,Healthy,Regular,3,Business,False,Cash,857917,14298.62,34,60,2025-09-27,2026-01-30,False,True,Other
+CUST00034,Healthy,Regular,1,Salaried,True,Cash,412252,6870.87,50,60,2025-07-27,2026-02-01,False,True,None
+CUST00035,Healthy,Regular,3,Salaried,True,Digital,228391,3806.52,16,60,2025-06-23,2026-01-30,False,True,None
+CUST00036,Healthy,Regular,0,Self-Employed,True,Cash,588741,9812.35,31,60,2024-03-05,2026-02-02,False,True,None
+CUST00037,Healthy,Regular,4,Self-Employed,False,Cash,510032,8500.53,37,60,2024-09-10,2026-01-29,False,True,Fake loans/fake businesses
+CUST00038,Healthy,Regular,4,Self-Employed,True,Digital,616960,10282.67,53,60,2025-05-29,2026-01-29,False,True,None
+CUST00039,Healthy,Regular,4,Self-Employed,False,Digital,561927,9365.45,38,60,2024-08-25,2026-01-29,False,True,Other
+CUST00040,Healthy,Regular,2,Business,True,Cash,468246,7804.1,42,60,2025-04-23,2026-01-31,False,True,None
+CUST00041,Healthy,Regular,2,Salaried,True,Digital,465890,7764.83,49,60,2024-02-18,2026-01-31,False,True,None
+CUST00042,Healthy,Regular,1,Business,False,Cash,282074,4701.23,51,60,2024-12-14,2026-02-01,False,True,Other
+CUST00043,Healthy,Regular,0,Salaried,True,Cash,105801,1763.35,35,60,2024-11-22,2026-02-02,False,True,None
+CUST00044,Healthy,Regular,4,Salaried,True,Cash,358067,5967.78,10,60,2024-08-10,2026-01-29,False,True,None
+CUST00045,Healthy,Regular,3,Business,True,Cash,866326,14438.77,31,60,2025-11-14,2026-01-30,False,True,None
+CUST00046,Healthy,Regular,0,Salaried,False,Digital,327897,5464.95,31,60,2025-03-05,2026-02-02,False,True,Wrong documents/fake address
+CUST00047,Healthy,Regular,2,Salaried,True,Digital,103051,1717.52,53,60,2025-12-30,2026-01-31,False,True,None
+CUST00048,Healthy,Regular,3,Business,True,Cash,411810,6863.5,49,60,2024-03-19,2026-01-30,False,True,None
+CUST00049,Healthy,Regular,4,Business,False,Cash,798135,13302.25,28,60,2024-05-10,2026-01-29,False,True,Other
+CUST00050,Healthy,Regular,1,Salaried,False,Digital,320552,5342.53,21,60,2024-04-03,2026-02-01,False,True,Fake loans/fake businesses
+CUST00051,Healthy,Regular,0,Self-Employed,True,Cash,170056,2834.27,49,60,2025-05-12,2026-02-02,False,True,None
+CUST00052,Healthy,Regular,4,Business,False,Cash,741252,12354.2,31,60,2025-05-02,2026-01-29,False,True,Wrong documents/fake address
+CUST00053,Healthy,Regular,1,Self-Employed,False,Cash,604605,10076.75,37,60,2025-10-27,2026-02-01,False,True,Business loss
+CUST00054,Healthy,Regular,3,Salaried,True,Digital,221172,3686.2,48,60,2024-05-02,2026-01-30,False,True,None
+CUST00055,Healthy,Regular,0,Self-Employed,False,Cash,510260,8504.33,45,60,2025-07-08,2026-02-02,False,True,Other
+CUST00056,Healthy,Regular,1,Business,False,Cash,740652,12344.2,13,60,2025-12-19,2026-02-01,False,True,Business loss
+CUST00057,Healthy,Regular,1,Salaried,True,Digital,249143,4152.38,21,60,2024-02-14,2026-02-01,False,True,None
+CUST00058,Healthy,Regular,2,Business,True,Cash,451492,7524.87,21,60,2024-06-06,2026-01-31,False,True,None
+CUST00059,Healthy,Regular,0,Business,True,Cash,465517,7758.62,11,60,2025-04-26,2026-02-02,False,True,None
+CUST00060,Healthy,Regular,2,Business,True,Cash,812956,13549.27,35,60,2024-05-12,2026-01-31,False,True,None
+CUST00061,Healthy,Regular,1,Self-Employed,True,Cash,307164,5119.4,20,60,2024-11-17,2026-02-01,False,True,None
+CUST00062,Healthy,Regular,3,Self-Employed,False,Cash,693176,11552.93,33,60,2025-06-26,2026-01-30,False,True,Other
+CUST00063,Healthy,Regular,2,Self-Employed,True,Digital,550573,9176.22,41,60,2025-11-28,2026-01-31,False,True,None
+CUST00064,Healthy,Regular,3,Self-Employed,False,Digital,564568,9409.47,39,60,2025-04-06,2026-01-30,False,True,Other
+CUST00065,Healthy,Regular,3,Business,True,Digital,378352,6305.87,45,60,2024-12-04,2026-01-30,False,True,None
+CUST00066,Healthy,Regular,4,Business,True,Cash,675853,11264.22,40,60,2024-12-16,2026-01-29,False,True,None
+CUST00067,Healthy,Regular,3,Self-Employed,False,Cash,370184,6169.73,30,60,2024-09-07,2026-01-30,False,True,Other
+CUST00068,Healthy,Regular,0,Salaried,False,Digital,450605,7510.08,40,60,2024-04-10,2026-02-02,False,True,Other
+CUST00069,Healthy,Regular,4,Self-Employed,True,Cash,304697,5078.28,53,60,2025-04-26,2026-01-29,False,True,None
+CUST00070,Healthy,Regular,4,Salaried,True,Digital,314532,5242.2,38,60,2025-07-23,2026-01-29,False,True,None
+CUST00071,Healthy,Regular,2,Self-Employed,False,Digital,635008,10583.47,16,60,2025-06-01,2026-01-31,False,True,Other
+CUST00072,Healthy,Regular,3,Self-Employed,True,Digital,384677,6411.28,48,60,2025-10-05,2026-01-30,False,True,None
+CUST00073,Healthy,Regular,1,Business,True,Cash,729036,12150.6,59,60,2025-05-29,2026-02-01,False,True,None
+CUST00074,Healthy,Regular,1,Business,False,Digital,505062,8417.7,10,60,2024-12-13,2026-02-01,False,True,Other
+CUST00075,Healthy,Regular,0,Self-Employed,True,Digital,392804,6546.73,15,60,2025-11-07,2026-02-02,False,True,None
+CUST00076,Healthy,Regular,3,Business,False,Cash,686261,11437.68,30,60,2025-06-15,2026-01-30,False,True,Other
+CUST00077,Healthy,Regular,3,Self-Employed,False,Cash,167640,2794.0,58,60,2024-07-27,2026-01-30,False,True,Other
+CUST00078,Healthy,Regular,0,Business,False,Digital,355576,5926.27,20,60,2025-12-23,2026-02-02,False,True,Other
+CUST00079,Healthy,Regular,3,Salaried,True,Cash,423673,7061.22,17,60,2024-02-06,2026-01-30,False,True,None
+CUST00080,Healthy,Regular,3,Self-Employed,True,Digital,694447,11574.12,36,60,2024-08-20,2026-01-30,False,True,None
+CUST00081,Healthy,Regular,0,Self-Employed,True,Cash,232844,3880.73,22,60,2024-06-25,2026-02-02,False,True,None
+CUST00082,Healthy,Regular,2,Business,False,Digital,775278,12921.3,34,60,2024-10-11,2026-01-31,False,True,Business loss
+CUST00083,Healthy,Regular,1,Self-Employed,True,Cash,211813,3530.22,10,60,2025-08-11,2026-02-01,False,True,None
+CUST00084,Healthy,Regular,0,Self-Employed,False,Cash,419114,6985.23,36,60,2024-02-15,2026-02-02,False,True,Other
+CUST00085,Healthy,Regular,1,Salaried,True,Cash,278998,4649.97,15,60,2024-09-15,2026-02-01,False,True,None
+CUST00086,Healthy,Regular,0,Self-Employed,False,Digital,350244,5837.4,46,60,2024-10-03,2026-02-02,False,True,Other
+CUST00087,Healthy,Regular,4,Self-Employed,True,Digital,696237,11603.95,10,60,2024-09-03,2026-01-29,False,True,None
+CUST00088,Healthy,Regular,1,Self-Employed,True,Cash,339089,5651.48,12,60,2025-03-04,2026-02-01,False,True,None
+CUST00089,Healthy,Regular,3,Business,False,Cash,499770,8329.5,26,60,2024-04-20,2026-01-30,False,True,Other
+CUST00090,Healthy,Regular,4,Business,False,Cash,805605,13426.75,43,60,2025-03-04,2026-01-29,False,True,Other
+CUST00091,Healthy,Regular,2,Salaried,True,Cash,459383,7656.38,24,60,2024-07-11,2026-01-31,False,True,None
+CUST00092,Healthy,Regular,1,Business,False,Cash,517623,8627.05,26,60,2025-02-08,2026-02-01,False,True,Other
+CUST00093,Healthy,Regular,3,Self-Employed,False,Cash,579802,9663.37,52,60,2025-09-15,2026-01-30,False,True,Business loss
+CUST00094,Healthy,Regular,2,Salaried,True,Cash,470359,7839.32,34,60,2025-06-23,2026-01-31,False,True,None
+CUST00095,Healthy,Regular,2,Self-Employed,False,Cash,567170,9452.83,30,60,2025-12-30,2026-01-31,False,True,Other
+CUST00096,Healthy,Regular,1,Salaried,True,Cash,466824,7780.4,21,60,2025-01-23,2026-02-01,False,True,None
+CUST00097,Healthy,Regular,1,Salaried,True,Cash,123321,2055.35,56,60,2025-09-05,2026-02-01,False,True,None
+CUST00098,Healthy,Regular,2,Business,True,Cash,410176,6836.27,17,60,2024-04-19,2026-01-31,False,True,None
+CUST00099,Healthy,Regular,2,Salaried,True,Cash,211317,3521.95,23,60,2024-09-17,2026-01-31,False,True,None
+CUST00100,Healthy,Regular,3,Self-Employed,True,Digital,416765,6946.08,60,60,2025-12-28,2026-01-30,False,True,None
+CUST00101,Healthy,Regular,2,Business,False,Cash,318033,5300.55,47,60,2025-12-20,2026-01-31,False,True,Business loss
+CUST00102,Healthy,Regular,4,Salaried,True,Digital,499445,8324.08,35,60,2025-08-31,2026-01-29,False,True,None
+CUST00103,Healthy,Regular,3,Salaried,True,Cash,107561,1792.68,12,60,2025-05-16,2026-01-30,False,True,None
+CUST00104,Healthy,Regular,4,Self-Employed,True,Digital,687198,11453.3,17,60,2024-12-31,2026-01-29,False,True,None
+CUST00105,Healthy,Regular,3,Salaried,True,Cash,285625,4760.42,43,60,2024-10-18,2026-01-30,False,True,None
+CUST00106,Healthy,Regular,2,Business,False,Cash,316421,5273.68,15,60,2024-08-19,2026-01-31,False,True,Other
+CUST00107,Healthy,Regular,2,Salaried,False,Cash,224040,3734.0,12,60,2025-05-06,2026-01-31,False,True,Wrong documents/fake address
+CUST00108,Healthy,Regular,4,Business,True,Cash,884106,14735.1,13,60,2024-03-29,2026-01-29,False,True,None
+CUST00109,Healthy,Regular,0,Self-Employed,False,Digital,675134,11252.23,20,60,2024-12-08,2026-02-02,False,True,Other
+CUST00110,Healthy,Regular,4,Business,True,Cash,816210,13603.5,29,60,2025-05-24,2026-01-29,False,True,None
+CUST00111,Healthy,Regular,3,Salaried,True,Cash,341983,5699.72,47,60,2025-08-18,2026-01-30,False,True,None
+CUST00112,Healthy,Regular,3,Self-Employed,True,Cash,232180,3869.67,32,60,2024-03-25,2026-01-30,False,True,None
+CUST00113,Healthy,Regular,3,Salaried,True,Cash,232414,3873.57,46,60,2025-02-09,2026-01-30,False,True,None
+CUST00114,Healthy,Regular,0,Salaried,True,Cash,142078,2367.97,58,60,2024-06-02,2026-02-02,False,True,None
+CUST00115,Healthy,Regular,3,Business,True,Digital,664008,11066.8,43,60,2024-05-26,2026-01-30,False,True,None
+CUST00116,Healthy,Regular,2,Salaried,True,Cash,237023,3950.38,38,60,2025-05-20,2026-01-31,False,True,None
+CUST00117,Healthy,Regular,3,Salaried,True,Digital,255002,4250.03,23,60,2024-11-20,2026-01-30,False,True,None
+CUST00118,Healthy,Regular,3,Self-Employed,True,Cash,340279,5671.32,48,60,2024-04-28,2026-01-30,False,True,None
+CUST00119,Healthy,Regular,2,Business,False,Cash,602400,10040.0,34,60,2025-08-12,2026-01-31,False,True,Other
+CUST00120,Healthy,Regular,1,Self-Employed,False,Cash,373810,6230.17,16,60,2025-07-09,2026-02-01,False,True,Other
+CUST00121,Healthy,Regular,3,Business,False,Cash,602662,10044.37,36,60,2024-11-10,2026-01-30,False,True,Other
+CUST00122,Healthy,Regular,0,Self-Employed,True,Digital,515821,8597.02,13,60,2024-05-16,2026-02-02,False,True,None
+CUST00123,Healthy,Regular,1,Business,False,Cash,648396,10806.6,40,60,2025-05-21,2026-02-01,False,True,Other
+CUST00124,Healthy,Regular,3,Self-Employed,False,Cash,164382,2739.7,13,60,2024-02-19,2026-01-30,False,True,Other
+CUST00125,Healthy,Regular,2,Business,False,Cash,795603,13260.05,20,60,2025-04-25,2026-01-31,False,True,Other
+CUST00126,Healthy,Regular,1,Business,True,Cash,325885,5431.42,27,60,2024-04-21,2026-02-01,False,True,None
+CUST00127,Healthy,Regular,3,Self-Employed,True,Digital,345716,5761.93,46,60,2025-08-30,2026-01-30,False,True,None
+CUST00128,Healthy,Regular,1,Business,True,Cash,941426,15690.43,38,60,2024-09-29,2026-02-01,False,True,None
+CUST00129,Healthy,Regular,0,Business,True,Cash,332717,5545.28,45,60,2025-07-06,2026-02-02,False,True,None
+CUST00130,Healthy,Regular,0,Self-Employed,True,Cash,480388,8006.47,56,60,2025-03-01,2026-02-02,False,True,None
+CUST00131,Healthy,Regular,0,Salaried,True,Cash,140738,2345.63,34,60,2024-05-12,2026-02-02,False,True,None
+CUST00132,Healthy,Regular,2,Business,True,Cash,498512,8308.53,52,60,2025-07-09,2026-01-31,False,True,None
+CUST00133,Healthy,Regular,0,Self-Employed,True,Digital,533152,8885.87,38,60,2025-11-02,2026-02-02,False,True,None
+CUST00134,Healthy,Regular,2,Business,True,Cash,446726,7445.43,26,60,2025-10-12,2026-01-31,False,True,None
+CUST00135,Healthy,Regular,0,Salaried,True,Cash,306524,5108.73,49,60,2024-06-22,2026-02-02,False,True,None
+CUST00136,Healthy,Regular,0,Self-Employed,True,Cash,601282,10021.37,41,60,2024-03-05,2026-02-02,False,True,None
+CUST00137,Healthy,Regular,4,Business,True,Digital,420178,7002.97,27,60,2024-05-24,2026-01-29,False,True,None
+CUST00138,Healthy,Regular,2,Self-Employed,True,Cash,450709,7511.82,60,60,2024-03-31,2026-01-31,False,True,None
+CUST00139,Healthy,Regular,0,Self-Employed,True,Digital,515321,8588.68,19,60,2025-07-26,2026-02-02,False,True,None
+CUST00140,Healthy,Regular,3,Business,False,Digital,416454,6940.9,38,60,2025-12-27,2026-01-30,False,True,Wrong documents/fake address
+CUST00141,Healthy,Regular,2,Salaried,True,Cash,262552,4375.87,56,60,2025-05-20,2026-01-31,False,True,None
+CUST00142,Healthy,Regular,2,Business,False,Digital,797794,13296.57,41,60,2025-10-08,2026-01-31,False,True,Other
+CUST00143,Healthy,Regular,2,Business,False,Cash,811213,13520.22,40,60,2025-12-28,2026-01-31,False,True,Other
+CUST00144,Healthy,Regular,0,Salaried,True,Cash,244931,4082.18,38,60,2024-02-04,2026-02-02,False,True,None
+CUST00145,Healthy,Regular,1,Business,False,Cash,827433,13790.55,11,60,2024-09-20,2026-02-01,False,True,Wrong documents/fake address
+CUST00146,Healthy,Regular,3,Business,True,Cash,592417,9873.62,53,60,2024-08-22,2026-01-30,False,True,None
+CUST00147,Healthy,Regular,1,Business,True,Digital,743351,12389.18,55,60,2025-08-29,2026-02-01,False,True,None
+CUST00148,Healthy,Regular,0,Self-Employed,True,Digital,645553,10759.22,54,60,2025-03-29,2026-02-02,False,True,None
+CUST00149,Healthy,Regular,0,Salaried,False,Digital,338009,5633.48,38,60,2025-09-17,2026-02-02,False,True,Other
+CUST00150,Healthy,Regular,4,Salaried,False,Cash,288456,4807.6,47,60,2025-12-01,2026-01-29,False,True,Other
+CUST00151,Healthy,Regular,0,Self-Employed,False,Cash,691013,11516.88,30,60,2025-12-08,2026-02-02,False,True,Other
+CUST00152,Healthy,Regular,2,Self-Employed,False,Cash,486326,8105.43,19,60,2024-02-19,2026-01-31,False,True,Other
+CUST00153,Healthy,Regular,4,Self-Employed,True,Cash,251371,4189.52,52,60,2024-02-11,2026-01-29,False,True,None
+CUST00154,Healthy,Regular,3,Business,True,Digital,980298,16338.3,45,60,2025-09-13,2026-01-30,False,True,None
+CUST00155,Healthy,Regular,2,Self-Employed,True,Cash,566366,9439.43,33,60,2024-11-24,2026-01-31,False,True,None
+CUST00156,Healthy,Regular,4,Self-Employed,True,Cash,610514,10175.23,52,60,2024-08-15,2026-01-29,False,True,None
+CUST00157,Healthy,Regular,4,Salaried,True,Cash,200424,3340.4,18,60,2025-03-14,2026-01-29,False,True,None
+CUST00158,Healthy,Regular,0,Self-Employed,False,Cash,425494,7091.57,44,60,2025-08-26,2026-02-02,False,True,Business loss
+CUST00159,Healthy,Regular,3,Business,True,Cash,775762,12929.37,46,60,2025-11-21,2026-01-30,False,True,None
+CUST00160,Healthy,Regular,2,Business,True,Digital,459568,7659.47,56,60,2025-12-23,2026-01-31,False,True,None
+CUST00161,Healthy,Regular,2,Business,False,Cash,792245,13204.08,25,60,2025-06-18,2026-01-31,False,True,Fake loans/fake businesses
+CUST00162,Healthy,Regular,0,Business,False,Cash,716142,11935.7,41,60,2025-12-19,2026-02-02,False,True,Other
+CUST00163,Healthy,Regular,1,Self-Employed,False,Cash,436214,7270.23,18,60,2024-02-16,2026-02-01,False,True,Business loss
+CUST00164,Healthy,Regular,2,Business,True,Digital,487654,8127.57,44,60,2024-11-28,2026-01-31,False,True,None
+CUST00165,Healthy,Regular,2,Business,True,Cash,321826,5363.77,53,60,2025-06-30,2026-01-31,False,True,None
+CUST00166,Healthy,Regular,4,Salaried,True,Cash,251734,4195.57,32,60,2025-01-05,2026-01-29,False,True,None
+CUST00167,Healthy,Regular,0,Self-Employed,False,Digital,404444,6740.73,51,60,2025-09-18,2026-02-02,False,True,Fake loans/fake businesses
+CUST00168,Healthy,Regular,2,Business,True,Digital,752076,12534.6,27,60,2024-11-14,2026-01-31,False,True,None
+CUST00169,Healthy,Regular,2,Salaried,True,Cash,282256,4704.27,38,60,2025-02-20,2026-01-31,False,True,None
+CUST00170,Healthy,Regular,4,Self-Employed,True,Cash,553832,9230.53,19,60,2025-01-10,2026-01-29,False,True,None
+CUST00171,Healthy,Regular,3,Business,True,Cash,758221,12637.02,39,60,2025-02-14,2026-01-30,False,True,None
+CUST00172,Healthy,Regular,1,Salaried,True,Cash,321165,5352.75,24,60,2024-05-29,2026-02-01,False,True,None
+CUST00173,Healthy,Regular,0,Self-Employed,True,Digital,388506,6475.1,15,60,2024-10-21,2026-02-02,False,True,None
+CUST00174,Healthy,Regular,2,Business,False,Digital,393283,6554.72,17,60,2024-03-15,2026-01-31,False,True,Other
+CUST00175,Healthy,Regular,4,Business,True,Cash,446584,7443.07,35,60,2024-08-16,2026-01-29,False,True,None
+CUST00176,Healthy,Regular,2,Business,False,Cash,266262,4437.7,58,60,2024-08-01,2026-01-31,False,True,Other
+CUST00177,Healthy,Regular,1,Self-Employed,True,Cash,524999,8749.98,12,60,2025-07-28,2026-02-01,False,True,None
+CUST00178,Healthy,Regular,2,Salaried,True,Cash,290792,4846.53,13,60,2025-01-12,2026-01-31,False,True,None
+CUST00179,Healthy,Regular,1,Self-Employed,True,Cash,641036,10683.93,18,60,2025-06-23,2026-02-01,False,True,None
+CUST00180,Healthy,Regular,0,Business,True,Cash,526916,8781.93,20,60,2025-05-23,2026-02-02,False,True,None
+CUST00181,Healthy,Regular,3,Self-Employed,True,Digital,262217,4370.28,27,60,2024-10-07,2026-01-30,False,True,None
+CUST00182,Healthy,Regular,4,Salaried,True,Cash,145648,2427.47,59,60,2025-11-25,2026-01-29,False,True,None
+CUST00183,Healthy,Regular,4,Self-Employed,True,Digital,161303,2688.38,43,60,2025-11-25,2026-01-29,False,True,None
+CUST00184,Healthy,Regular,2,Business,False,Cash,219623,3660.38,37,60,2025-01-16,2026-01-31,False,True,Fake loans/fake businesses
+CUST00185,Healthy,Regular,0,Self-Employed,True,Digital,670547,11175.78,36,60,2024-11-08,2026-02-02,False,True,None
+CUST00186,Healthy,Regular,3,Salaried,False,Digital,411282,6854.7,40,60,2024-07-18,2026-01-30,False,True,Wrong documents/fake address
+CUST00187,Healthy,Regular,2,Salaried,False,Cash,226209,3770.15,23,60,2024-05-25,2026-01-31,False,True,Other
+CUST00188,Healthy,Regular,1,Self-Employed,False,Digital,670551,11175.85,40,60,2024-02-04,2026-02-01,False,True,Wrong documents/fake address
+CUST00189,Healthy,Regular,4,Business,True,Digital,229257,3820.95,50,60,2025-05-25,2026-01-29,False,True,None
+CUST00190,Healthy,Regular,1,Self-Employed,False,Digital,588755,9812.58,59,60,2025-02-14,2026-02-01,False,True,Other
+CUST00191,Healthy,Regular,0,Business,False,Cash,453973,7566.22,35,60,2025-09-06,2026-02-02,False,True,Wrong documents/fake address
+CUST00192,Healthy,Regular,1,Business,False,Cash,684090,11401.5,44,60,2024-12-19,2026-02-01,False,True,Other
+CUST00193,Healthy,Regular,4,Salaried,True,Cash,193106,3218.43,20,60,2024-06-13,2026-01-29,False,True,None
+CUST00194,Healthy,Regular,1,Salaried,True,Digital,189186,3153.1,22,60,2024-09-02,2026-02-01,False,True,None
+CUST00195,Healthy,Regular,4,Business,True,Cash,540941,9015.68,29,60,2025-12-13,2026-01-29,False,True,None
+CUST00196,Healthy,Regular,2,Self-Employed,False,Cash,445900,7431.67,30,60,2025-03-07,2026-01-31,False,True,Other
+CUST00197,Healthy,Regular,2,Business,False,Cash,992058,16534.3,10,60,2024-06-13,2026-01-31,False,True,Other
+CUST00198,Healthy,Regular,1,Salaried,True,Cash,126385,2106.42,24,60,2024-08-30,2026-02-01,False,True,None
+CUST00199,Healthy,Regular,2,Business,True,Digital,601927,10032.12,24,60,2025-12-08,2026-01-31,False,True,None
+CUST00200,Healthy,Regular,1,Business,False,Cash,438260,7304.33,33,60,2024-12-22,2026-02-01,False,True,Other
+CUST00201,Healthy,Regular,0,Salaried,True,Cash,134531,2242.18,18,60,2024-02-26,2026-02-02,False,True,None
+CUST00202,Healthy,Regular,0,Salaried,True,Cash,331809,5530.15,33,60,2024-05-30,2026-02-02,False,True,None
+CUST00203,Healthy,Regular,2,Business,True,Cash,357661,5961.02,27,60,2025-01-03,2026-01-31,False,True,None
+CUST00204,Healthy,Regular,2,Business,False,Digital,492231,8203.85,20,60,2025-06-04,2026-01-31,False,True,Other
+CUST00205,Healthy,Regular,0,Salaried,False,Cash,342997,5716.62,31,60,2025-10-04,2026-02-02,False,True,Other
+CUST00206,Healthy,Regular,1,Business,False,Cash,468512,7808.53,42,60,2024-05-25,2026-02-01,False,True,Business loss
+CUST00207,Healthy,Regular,1,Business,True,Cash,851406,14190.1,43,60,2025-09-20,2026-02-01,False,True,None
+CUST00208,Healthy,Regular,3,Salaried,True,Digital,495141,8252.35,18,60,2025-10-23,2026-01-30,False,True,None
+CUST00209,Healthy,Regular,0,Business,False,Digital,606845,10114.08,56,60,2025-04-28,2026-02-02,False,True,Other
+CUST00210,Healthy,Regular,2,Business,False,Digital,929497,15491.62,12,60,2025-08-30,2026-01-31,False,True,Other
+CUST00211,Healthy,Regular,1,Self-Employed,False,Cash,669052,11150.87,34,60,2025-03-09,2026-02-01,False,True,Other
+CUST00212,Healthy,Regular,2,Business,True,Cash,834486,13908.1,41,60,2025-03-03,2026-01-31,False,True,None
+CUST00213,Healthy,Regular,3,Self-Employed,False,Cash,634410,10573.5,12,60,2025-11-30,2026-01-30,False,True,Fake loans/fake businesses
+CUST00214,Healthy,Regular,0,Business,True,Digital,783609,13060.15,33,60,2024-11-26,2026-02-02,False,True,None
+CUST00215,Healthy,Regular,4,Self-Employed,True,Digital,451207,7520.12,59,60,2024-02-15,2026-01-29,False,True,None
+CUST00216,Healthy,Regular,2,Self-Employed,True,Digital,565231,9420.52,45,60,2024-06-05,2026-01-31,False,True,None
+CUST00217,Healthy,Regular,1,Business,False,Digital,900601,15010.02,21,60,2024-04-01,2026-02-01,False,True,Other
+CUST00218,Healthy,Regular,4,Business,True,Digital,616495,10274.92,39,60,2024-05-15,2026-01-29,False,True,None
+CUST00219,Healthy,Regular,1,Salaried,False,Cash,164324,2738.73,47,60,2024-06-30,2026-02-01,False,True,Fake loans/fake businesses
+CUST00220,Healthy,Regular,3,Self-Employed,True,Cash,251459,4190.98,11,60,2025-08-12,2026-01-30,False,True,None
+CUST00221,Healthy,Regular,2,Self-Employed,True,Digital,294832,4913.87,49,60,2024-10-01,2026-01-31,False,True,None
+CUST00222,Healthy,Regular,3,Business,True,Cash,244738,4078.97,23,60,2024-05-22,2026-01-30,False,True,None
+CUST00223,Healthy,Regular,1,Self-Employed,False,Cash,566715,9445.25,10,60,2025-02-25,2026-02-01,False,True,Fake loans/fake businesses
+CUST00224,Healthy,Regular,3,Self-Employed,False,Cash,427707,7128.45,46,60,2025-03-05,2026-01-30,False,True,Other
+CUST00225,Healthy,Regular,3,Self-Employed,False,Cash,626410,10440.17,29,60,2025-02-04,2026-01-30,False,True,Business loss
+CUST00226,Healthy,Regular,4,Business,True,Cash,417285,6954.75,46,60,2025-11-06,2026-01-29,False,True,None
+CUST00227,Healthy,Regular,4,Salaried,True,Cash,272307,4538.45,59,60,2025-06-02,2026-01-29,False,True,None
+CUST00228,Healthy,Regular,2,Salaried,False,Cash,246470,4107.83,40,60,2025-07-04,2026-01-31,False,True,Other
+CUST00229,Healthy,Regular,1,Self-Employed,True,Cash,444700,7411.67,25,60,2024-12-25,2026-02-01,False,True,None
+CUST00230,Healthy,Regular,1,Salaried,True,Cash,375813,6263.55,14,60,2024-08-27,2026-02-01,False,True,None
+CUST00231,Healthy,Regular,1,Business,False,Cash,981725,16362.08,59,60,2025-08-12,2026-02-01,False,True,Other
+CUST00232,Healthy,Regular,0,Salaried,False,Cash,201376,3356.27,28,60,2025-03-23,2026-02-02,False,True,Other
+CUST00233,Healthy,Regular,4,Business,False,Cash,662785,11046.42,59,60,2024-06-08,2026-01-29,False,True,Other
+CUST00234,Healthy,Regular,0,Business,False,Cash,678366,11306.1,50,60,2025-02-14,2026-02-02,False,True,Other
+CUST00235,Healthy,Regular,3,Business,False,Digital,445014,7416.9,28,60,2025-01-04,2026-01-30,False,True,Other
+CUST00236,Healthy,Regular,0,Self-Employed,False,Cash,358786,5979.77,38,60,2024-09-18,2026-02-02,False,True,Other
+CUST00237,Healthy,Regular,0,Self-Employed,True,Cash,603449,10057.48,11,60,2026-01-01,2026-02-02,False,True,None
+CUST00238,Healthy,Regular,4,Business,False,Cash,231348,3855.8,38,60,2025-08-03,2026-01-29,False,True,Business loss
+CUST00239,Healthy,Regular,4,Self-Employed,True,Cash,485914,8098.57,57,60,2025-01-26,2026-01-29,False,True,None
+CUST00240,Healthy,Regular,1,Business,False,Digital,259182,4319.7,24,60,2025-11-14,2026-02-01,False,True,Business loss
+CUST00241,Monitored,Monitored,21,Self-Employed,True,Cash,353502,5891.7,32,60,2025-03-19,2026-01-12,False,True,None
+CUST00242,Monitored,Monitored,8,Self-Employed,False,Digital,407368,6789.47,34,60,2024-10-02,2026-01-25,False,True,Business loss
+CUST00243,Monitored,Monitored,44,Salaried,True,Digital,380887,6348.12,53,60,2024-10-16,2025-12-20,False,True,None
+CUST00244,Monitored,Monitored,42,Business,True,Cash,521333,8688.88,5,60,2025-07-16,2025-12-22,False,True,None
+CUST00245,Monitored,Monitored,56,Self-Employed,True,Cash,346501,5775.02,58,60,2025-04-02,2025-12-08,False,True,None
+CUST00246,Monitored,Monitored,22,Self-Employed,False,Cash,225388,3756.47,46,60,2024-05-30,2026-01-11,False,True,Other
+CUST00247,Monitored,Monitored,49,Salaried,True,Cash,238299,3971.65,43,60,2025-06-16,2025-12-15,False,True,None
+CUST00248,Monitored,Monitored,25,Salaried,True,Cash,360337,6005.62,9,60,2024-02-17,2026-01-08,False,True,None
+CUST00249,Monitored,Monitored,49,Business,False,Cash,249104,4151.73,26,60,2024-10-29,2025-12-15,False,True,Other
+CUST00250,Monitored,Monitored,35,Business,False,Cash,358285,5971.42,17,60,2024-08-13,2025-12-29,False,True,Business loss
+CUST00251,Monitored,Monitored,25,Business,True,Cash,294018,4900.3,46,60,2024-12-26,2026-01-08,False,True,None
+CUST00252,Monitored,Monitored,39,Business,True,Cash,644717,10745.28,23,60,2024-06-03,2025-12-25,False,True,None
+CUST00253,Monitored,Monitored,26,Self-Employed,False,Digital,162323,2705.38,44,60,2025-01-16,2026-01-07,False,True,Other
+CUST00254,Monitored,Monitored,9,Self-Employed,True,Cash,527539,8792.32,17,60,2024-06-22,2026-01-24,False,True,None
+CUST00255,Monitored,Monitored,2,Business,True,Cash,849991,14166.52,42,60,2024-06-21,2026-01-31,False,True,None
+CUST00256,Monitored,Monitored,3,Self-Employed,True,Cash,379189,6319.82,6,60,2025-07-16,2026-01-30,False,True,None
+CUST00257,Monitored,Monitored,2,Self-Employed,False,Cash,465507,7758.45,12,60,2024-03-13,2026-01-31,False,True,Other
+CUST00258,Monitored,Monitored,36,Business,False,Digital,491126,8185.43,20,60,2024-04-26,2025-12-28,False,True,Business loss
+CUST00259,Monitored,Monitored,57,Business,True,Cash,351175,5852.92,24,60,2024-08-07,2025-12-07,False,True,None
+CUST00260,Monitored,Monitored,16,Self-Employed,True,Digital,179301,2988.35,9,60,2025-05-01,2026-01-17,False,True,None
+CUST00261,Monitored,Monitored,44,Salaried,True,Cash,483381,8056.35,22,60,2024-10-05,2025-12-20,False,True,None
+CUST00262,Monitored,Monitored,39,Business,False,Cash,734003,12233.38,38,60,2024-08-13,2025-12-25,False,True,Wrong documents/fake address
+CUST00263,Monitored,Monitored,33,Salaried,True,Cash,135585,2259.75,31,60,2024-10-12,2025-12-31,False,True,None
+CUST00264,Monitored,Monitored,11,Business,True,Digital,396049,6600.82,59,60,2025-04-17,2026-01-22,False,True,None
+CUST00265,Monitored,Monitored,35,Business,False,Cash,945715,15761.92,46,60,2025-12-23,2025-12-29,False,True,Other
+CUST00266,Monitored,Monitored,42,Self-Employed,False,Cash,195033,3250.55,34,60,2024-09-29,2025-12-22,False,True,Other
+CUST00267,Monitored,Monitored,16,Salaried,False,Cash,386370,6439.5,6,60,2025-08-27,2026-01-17,False,True,Fake loans/fake businesses
+CUST00268,Monitored,Monitored,14,Business,False,Digital,656956,10949.27,58,60,2025-03-21,2026-01-19,False,True,Other
+CUST00269,Monitored,Monitored,14,Salaried,False,Digital,214099,3568.32,7,60,2024-09-08,2026-01-19,False,True,Other
+CUST00270,Monitored,Monitored,25,Business,True,Cash,217347,3622.45,29,60,2025-10-17,2026-01-08,False,True,None
+CUST00271,Monitored,Monitored,4,Salaried,True,Cash,325371,5422.85,17,60,2024-07-10,2026-01-29,False,True,None
+CUST00272,Monitored,Monitored,14,Business,True,Digital,579551,9659.18,33,60,2025-11-22,2026-01-19,False,True,None
+CUST00273,Monitored,Monitored,2,Business,True,Cash,767201,12786.68,14,60,2025-01-24,2026-01-31,False,True,None
+CUST00274,Monitored,Monitored,2,Self-Employed,False,Cash,306104,5101.73,27,60,2025-10-13,2026-01-31,False,True,Fake loans/fake businesses
+CUST00275,Monitored,Monitored,21,Salaried,True,Cash,197359,3289.32,20,60,2024-05-05,2026-01-12,False,True,None
+CUST00276,Monitored,Monitored,4,Business,True,Cash,627387,10456.45,56,60,2025-05-28,2026-01-29,False,True,None
+CUST00277,Monitored,Monitored,52,Business,False,Digital,635684,10594.73,56,60,2024-06-09,2025-12-12,False,True,Other
+CUST00278,Monitored,Monitored,35,Self-Employed,True,Digital,647660,10794.33,26,60,2024-03-30,2025-12-29,False,True,None
+CUST00279,Monitored,Monitored,55,Self-Employed,True,Cash,354366,5906.1,25,60,2024-03-25,2025-12-09,False,True,None
+CUST00280,Monitored,Monitored,23,Salaried,True,Cash,253812,4230.2,30,60,2025-05-07,2026-01-10,False,True,None
+CUST00281,Monitored,Monitored,45,Business,False,Digital,462307,7705.12,21,60,2024-08-25,2025-12-19,False,True,Other
+CUST00282,Monitored,Monitored,21,Business,True,Cash,828419,13806.98,38,60,2024-06-19,2026-01-12,False,True,None
+CUST00283,Monitored,Monitored,48,Business,True,Cash,456553,7609.22,25,60,2024-06-29,2025-12-16,False,True,None
+CUST00284,Monitored,Monitored,13,Salaried,True,Cash,452680,7544.67,5,60,2025-08-27,2026-01-20,False,True,None
+CUST00285,Monitored,Monitored,48,Self-Employed,False,Cash,371972,6199.53,32,60,2025-06-18,2025-12-16,False,True,Fake loans/fake businesses
+CUST00286,Monitored,Monitored,17,Salaried,True,Cash,130111,2168.52,48,60,2024-10-12,2026-01-16,False,True,None
+CUST00287,Monitored,Monitored,23,Business,True,Cash,263530,4392.17,5,60,2024-04-23,2026-01-10,False,True,None
+CUST00288,Monitored,Monitored,51,Salaried,True,Digital,450484,7508.07,44,60,2025-01-03,2025-12-13,False,True,None
+CUST00289,Monitored,Monitored,36,Self-Employed,False,Cash,601122,10018.7,47,60,2024-10-19,2025-12-28,False,True,Business loss
+CUST00290,Monitored,Monitored,30,Business,True,Cash,621486,10358.1,36,60,2025-01-01,2026-01-03,False,True,None
+CUST00291,Monitored,Monitored,28,Business,False,Cash,890504,14841.73,6,60,2024-09-28,2026-01-05,False,True,Fake loans/fake businesses
+CUST00292,Monitored,Monitored,49,Self-Employed,True,Cash,621256,10354.27,59,60,2025-06-28,2025-12-15,False,True,None
+CUST00293,Monitored,Monitored,50,Self-Employed,True,Cash,471909,7865.15,17,60,2024-02-11,2025-12-14,False,True,None
+CUST00294,Monitored,Monitored,32,Business,False,Cash,913226,15220.43,14,60,2025-04-06,2026-01-01,False,True,Other
+CUST00295,Monitored,Monitored,55,Salaried,True,Cash,205432,3423.87,54,60,2024-11-16,2025-12-09,False,True,None
+CUST00296,Monitored,Monitored,20,Salaried,True,Digital,352791,5879.85,25,60,2025-09-04,2026-01-13,False,True,None
+CUST00297,Monitored,Monitored,32,Self-Employed,False,Cash,456094,7601.57,22,60,2025-08-08,2026-01-01,False,True,Other
+CUST00298,Monitored,Monitored,21,Business,False,Cash,950230,15837.17,48,60,2025-06-15,2026-01-12,False,True,Other
+CUST00299,Monitored,Monitored,22,Business,False,Cash,285457,4757.62,6,60,2024-07-12,2026-01-11,False,True,Other
+CUST00300,Monitored,Monitored,52,Business,True,Cash,744855,12414.25,48,60,2024-09-30,2025-12-12,False,True,None
+CUST00301,Monitored,Monitored,22,Self-Employed,True,Cash,496130,8268.83,27,60,2024-11-17,2026-01-11,False,True,None
+CUST00302,Monitored,Monitored,30,Business,False,Digital,885166,14752.77,12,60,2025-01-07,2026-01-03,False,True,Other
+CUST00303,Monitored,Monitored,8,Salaried,True,Digital,344839,5747.32,39,60,2025-05-25,2026-01-25,False,True,None
+CUST00304,Monitored,Monitored,42,Business,True,Digital,960109,16001.82,43,60,2025-10-30,2025-12-22,False,True,None
+CUST00305,Monitored,Monitored,41,Self-Employed,True,Cash,169033,2817.22,58,60,2025-12-23,2025-12-23,False,True,None
+CUST00306,Monitored,Monitored,17,Salaried,True,Digital,246451,4107.52,15,60,2025-10-26,2026-01-16,False,True,None
+CUST00307,Monitored,Monitored,56,Self-Employed,True,Cash,384627,6410.45,24,60,2024-07-17,2025-12-08,False,True,None
+CUST00308,Monitored,Monitored,54,Self-Employed,True,Cash,414167,6902.78,43,60,2024-11-25,2025-12-10,False,True,None
+CUST00309,Monitored,Monitored,10,Business,True,Digital,489910,8165.17,11,60,2024-08-06,2026-01-23,False,True,None
+CUST00310,Monitored,Monitored,29,Business,True,Cash,468787,7813.12,8,60,2024-07-17,2026-01-04,False,True,None
+CUST00311,Monitored,Monitored,34,Self-Employed,False,Cash,521602,8693.37,53,60,2025-02-19,2025-12-30,False,True,Business loss
+CUST00312,Monitored,Monitored,22,Business,False,Digital,737716,12295.27,35,60,2025-12-16,2026-01-11,False,True,Other
+CUST00313,Monitored,Monitored,36,Salaried,True,Cash,461278,7687.97,56,60,2025-09-13,2025-12-28,False,True,None
+CUST00314,Monitored,Monitored,59,Business,False,Digital,745909,12431.82,49,60,2025-07-27,2025-12-05,False,True,Other
+CUST00315,Monitored,Monitored,4,Self-Employed,True,Cash,338490,5641.5,43,60,2025-08-20,2026-01-29,False,True,None
+CUST00316,Monitored,Monitored,26,Self-Employed,True,Cash,315937,5265.62,7,60,2024-04-25,2026-01-07,False,True,None
+CUST00317,Monitored,Monitored,49,Self-Employed,True,Cash,627746,10462.43,57,60,2024-11-04,2025-12-15,False,True,None
+CUST00318,Monitored,Monitored,35,Self-Employed,False,Digital,434580,7243.0,24,60,2025-11-16,2025-12-29,False,True,Other
+CUST00319,Monitored,Monitored,5,Business,False,Cash,649830,10830.5,54,60,2024-04-03,2026-01-28,False,True,Other
+CUST00320,Monitored,Monitored,36,Business,True,Cash,630267,10504.45,35,60,2024-05-18,2025-12-28,False,True,None
+CUST00321,Monitored,Monitored,24,Self-Employed,True,Cash,515446,8590.77,39,60,2025-05-29,2026-01-09,False,True,None
+CUST00322,Monitored,Monitored,14,Salaried,True,Digital,240905,4015.08,29,60,2025-06-13,2026-01-19,False,True,None
+CUST00323,Monitored,Monitored,6,Salaried,True,Cash,233715,3895.25,22,60,2025-04-29,2026-01-27,False,True,None
+CUST00324,Monitored,Monitored,43,Salaried,True,Cash,328870,5481.17,10,60,2024-04-05,2025-12-21,False,True,None
+CUST00325,Monitored,Monitored,15,Salaried,True,Digital,338511,5641.85,11,60,2024-11-04,2026-01-18,False,True,None
+CUST00326,Monitored,Monitored,26,Self-Employed,True,Digital,561961,9366.02,25,60,2025-10-14,2026-01-07,False,True,None
+CUST00327,Monitored,Monitored,5,Business,True,Cash,480466,8007.77,55,60,2024-12-16,2026-01-28,False,True,None
+CUST00328,Monitored,Monitored,12,Self-Employed,True,Cash,241006,4016.77,46,60,2025-02-11,2026-01-21,False,True,None
+CUST00329,Monitored,Monitored,22,Self-Employed,True,Cash,288593,4809.88,32,60,2025-11-22,2026-01-11,False,True,None
+CUST00330,Monitored,Monitored,41,Business,False,Cash,512813,8546.88,10,60,2024-05-04,2025-12-23,False,True,Other
+CUST00331,Monitored,Monitored,21,Salaried,True,Cash,221673,3694.55,38,60,2025-08-13,2026-01-12,False,True,None
+CUST00332,Monitored,Monitored,48,Self-Employed,False,Cash,600542,10009.03,44,60,2025-03-16,2025-12-16,False,True,Other
+CUST00333,Monitored,Monitored,10,Business,False,Cash,963935,16065.58,11,60,2025-04-02,2026-01-23,False,True,Fake loans/fake businesses
+CUST00334,Monitored,Monitored,4,Business,False,Cash,820756,13679.27,19,60,2024-04-16,2026-01-29,False,True,Other
+CUST00335,Monitored,Monitored,27,Business,False,Digital,712880,11881.33,6,60,2025-04-25,2026-01-06,False,True,Other
+CUST00336,Monitored,Monitored,44,Self-Employed,True,Cash,329635,5493.92,27,60,2024-05-13,2025-12-20,False,True,None
+CUST00337,Monitored,Monitored,59,Self-Employed,False,Digital,330231,5503.85,28,60,2024-08-14,2025-12-05,False,True,Other
+CUST00338,Monitored,Monitored,36,Self-Employed,True,Cash,321918,5365.3,52,60,2025-05-11,2025-12-28,False,True,None
+CUST00339,Monitored,Monitored,40,Self-Employed,True,Cash,230257,3837.62,11,60,2024-12-13,2025-12-24,False,True,None
+CUST00340,Monitored,Monitored,45,Business,True,Digital,571616,9526.93,32,60,2025-08-28,2025-12-19,False,True,None
+CUST00341,Monitored,Monitored,55,Salaried,False,Cash,120074,2001.23,41,60,2025-04-19,2025-12-09,False,True,Other
+CUST00342,Monitored,Monitored,46,Salaried,False,Digital,442829,7380.48,59,60,2025-12-19,2025-12-18,False,True,Other
+CUST00343,Monitored,Monitored,45,Business,False,Cash,987715,16461.92,32,60,2025-09-24,2025-12-19,False,True,Other
+CUST00344,Monitored,Monitored,59,Salaried,True,Cash,339968,5666.13,8,60,2024-03-09,2025-12-05,False,True,None
+CUST00345,Monitored,Monitored,5,Business,True,Cash,295665,4927.75,10,60,2025-06-07,2026-01-28,False,True,None
+CUST00346,Monitored,Monitored,44,Business,False,Cash,612104,10201.73,25,60,2025-05-23,2025-12-20,False,True,Other
+CUST00347,Monitored,Monitored,12,Self-Employed,True,Digital,366823,6113.72,30,60,2025-06-28,2026-01-21,False,True,None
+CUST00348,Monitored,Monitored,33,Salaried,True,Cash,244302,4071.7,22,60,2025-02-24,2025-12-31,False,True,None
+CUST00349,Monitored,Monitored,11,Business,False,Cash,796804,13280.07,48,60,2024-03-24,2026-01-22,False,True,Other
+CUST00350,Monitored,Monitored,27,Business,True,Cash,856449,14274.15,39,60,2025-05-01,2026-01-06,False,True,None
+CUST00351,Monitored,Monitored,28,Business,True,Cash,386368,6439.47,12,60,2024-04-04,2026-01-05,False,True,None
+CUST00352,Monitored,Monitored,3,Business,False,Cash,827220,13787.0,39,60,2025-02-25,2026-01-30,False,True,Other
+CUST00353,Monitored,Monitored,46,Business,False,Cash,298696,4978.27,39,60,2025-06-11,2025-12-18,False,True,Fake information about interest
+CUST00354,Monitored,Monitored,33,Business,True,Cash,676513,11275.22,50,60,2024-07-03,2025-12-31,False,True,None
+CUST00355,Monitored,Monitored,14,Business,False,Cash,664894,11081.57,18,60,2024-08-15,2026-01-19,False,True,Other
+CUST00356,Monitored,Monitored,25,Self-Employed,True,Digital,203909,3398.48,52,60,2025-10-13,2026-01-08,False,True,None
+CUST00357,Monitored,Monitored,46,Business,False,Digital,991507,16525.12,49,60,2025-02-11,2025-12-18,False,True,Other
+CUST00358,Monitored,Monitored,9,Self-Employed,False,Cash,285565,4759.42,42,60,2024-10-24,2026-01-24,False,True,Other
+CUST00359,Monitored,Monitored,40,Self-Employed,True,Cash,458877,7647.95,15,60,2025-02-04,2025-12-24,False,True,None
+CUST00360,Monitored,Monitored,30,Self-Employed,True,Digital,426993,7116.55,45,60,2024-04-07,2026-01-03,False,True,None
+CUST00361,Monitored,Monitored,46,Self-Employed,False,Cash,435711,7261.85,33,60,2025-11-03,2025-12-18,False,True,Other
+CUST00362,Monitored,Monitored,30,Self-Employed,True,Digital,610244,10170.73,25,60,2025-02-13,2026-01-03,False,True,None
+CUST00363,Monitored,Monitored,48,Business,False,Cash,660796,11013.27,13,60,2024-10-16,2025-12-16,False,True,Wrong documents/fake address
+CUST00364,Monitored,Monitored,35,Business,False,Cash,682604,11376.73,27,60,2024-10-30,2025-12-29,False,True,Business loss
+CUST00365,Monitored,Monitored,54,Self-Employed,False,Cash,277795,4629.92,33,60,2024-11-24,2025-12-10,False,True,Other
+CUST00366,Monitored,Monitored,51,Self-Employed,False,Cash,586571,9776.18,32,60,2024-11-24,2025-12-13,False,True,Other
+CUST00367,Monitored,Monitored,3,Business,False,Cash,997622,16627.03,45,60,2024-05-30,2026-01-30,False,True,Other
+CUST00368,Monitored,Monitored,6,Business,True,Cash,491077,8184.62,30,60,2025-03-27,2026-01-27,False,True,None
+CUST00369,Monitored,Monitored,8,Salaried,True,Cash,404748,6745.8,53,60,2024-11-06,2026-01-25,False,True,None
+CUST00370,Monitored,Monitored,14,Business,True,Cash,811004,13516.73,42,60,2025-11-16,2026-01-19,False,True,None
+CUST00371,Monitored,Monitored,46,Salaried,False,Digital,458182,7636.37,25,60,2025-02-20,2025-12-18,False,True,Other
+CUST00372,Monitored,Monitored,54,Business,True,Cash,728936,12148.93,21,60,2024-06-12,2025-12-10,False,True,None
+CUST00373,Monitored,Monitored,39,Self-Employed,True,Cash,464925,7748.75,49,60,2026-01-03,2025-12-25,False,True,None
+CUST00374,Monitored,Monitored,40,Self-Employed,True,Digital,650844,10847.4,16,60,2024-10-16,2025-12-24,False,True,None
+CUST00375,Monitored,Monitored,48,Self-Employed,False,Digital,580599,9676.65,29,60,2025-07-14,2025-12-16,False,True,Business loss
+CUST00376,Monitored,Monitored,45,Business,True,Digital,639953,10665.88,6,60,2025-02-14,2025-12-19,False,True,None
+CUST00377,Monitored,Monitored,30,Business,False,Cash,758830,12647.17,32,60,2025-10-12,2026-01-03,False,True,Other
+CUST00378,Monitored,Monitored,12,Salaried,True,Digital,448264,7471.07,14,60,2024-10-11,2026-01-21,False,True,None
+CUST00379,Monitored,Monitored,51,Self-Employed,True,Cash,214200,3570.0,43,60,2024-07-13,2025-12-13,False,True,None
+CUST00380,Monitored,Monitored,3,Business,True,Digital,361445,6024.08,7,60,2025-01-19,2026-01-30,False,True,None
+CUST00381,Monitored,Monitored,40,Business,False,Cash,726570,12109.5,5,60,2025-02-27,2025-12-24,False,True,Other
+CUST00382,Monitored,Monitored,26,Business,False,Cash,436440,7274.0,27,60,2024-11-22,2026-01-07,False,True,Other
+CUST00383,Monitored,Monitored,28,Self-Employed,False,Cash,381496,6358.27,57,60,2024-04-10,2026-01-05,False,True,Other
+CUST00384,Monitored,Monitored,44,Business,False,Digital,764046,12734.1,45,60,2025-11-02,2025-12-20,False,True,Business loss
+CUST00385,Monitored,Monitored,11,Self-Employed,True,Cash,233555,3892.58,37,60,2024-02-25,2026-01-22,False,True,None
+CUST00386,Monitored,Monitored,34,Salaried,True,Cash,453847,7564.12,5,60,2025-06-25,2025-12-30,False,True,None
+CUST00387,Monitored,Monitored,47,Salaried,True,Cash,364155,6069.25,39,60,2024-11-03,2025-12-17,False,True,None
+CUST00388,Monitored,Monitored,47,Salaried,True,Cash,384996,6416.6,12,60,2024-02-16,2025-12-17,False,True,None
+CUST00389,Monitored,Monitored,52,Self-Employed,True,Cash,680032,11333.87,49,60,2024-10-27,2025-12-12,False,True,None
+CUST00390,Monitored,Monitored,5,Salaried,False,Cash,301260,5021.0,8,60,2024-03-09,2026-01-28,False,True,Wrong documents/fake address
+CUST00391,Monitored,Monitored,54,Business,True,Cash,672890,11214.83,19,60,2025-05-04,2025-12-10,False,True,None
+CUST00392,Monitored,Monitored,30,Salaried,False,Cash,304923,5082.05,41,60,2025-11-30,2026-01-03,False,True,Other
+CUST00393,Monitored,Monitored,4,Business,False,Cash,533299,8888.32,21,60,2025-09-17,2026-01-29,False,True,Other
+CUST00394,Monitored,Monitored,22,Self-Employed,True,Cash,682844,11380.73,26,60,2024-12-21,2026-01-11,False,True,None
+CUST00395,Monitored,Monitored,23,Self-Employed,True,Cash,337954,5632.57,53,60,2025-01-28,2026-01-10,False,True,None
+CUST00396,Monitored,Monitored,46,Business,True,Digital,843907,14065.12,55,60,2024-12-15,2025-12-18,False,True,None
+CUST00397,Monitored,Monitored,28,Self-Employed,False,Cash,607569,10126.15,15,60,2024-10-26,2026-01-05,False,True,Other
+CUST00398,Monitored,Monitored,35,Business,False,Cash,436281,7271.35,23,60,2025-07-23,2025-12-29,False,True,Other
+CUST00399,Monitored,Monitored,8,Salaried,True,Cash,480562,8009.37,31,60,2025-09-09,2026-01-25,False,True,None
+CUST00400,Monitored,Monitored,34,Business,False,Digital,359380,5989.67,58,60,2024-12-05,2025-12-30,False,True,Other
+CUST00401,Upcoming_NPA,Upcoming_NPA,34,Business,True,Digital,738181,12303.02,19,60,2025-08-10,2025-12-30,False,True,Other
+CUST00402,Upcoming_NPA,Upcoming_NPA,35,Self-Employed,True,Cash,571280,9521.33,26,60,2024-11-23,2025-12-29,False,True,Other
+CUST00403,Upcoming_NPA,Upcoming_NPA,79,Business,False,Cash,614299,10238.32,21,60,2024-02-17,2025-11-15,True,True,Other
+CUST00404,Upcoming_NPA,Upcoming_NPA,77,Business,True,Cash,464528,7742.13,19,60,2025-08-10,2025-11-17,False,True,Wrong documents/fake address
+CUST00405,Upcoming_NPA,Upcoming_NPA,76,Business,False,Cash,358175,5969.58,24,60,2025-01-20,2025-11-18,False,False,Other
+CUST00406,Upcoming_NPA,Upcoming_NPA,50,Self-Employed,False,Cash,199847,3330.78,27,60,2025-03-07,2025-12-14,True,True,Other
+CUST00407,Upcoming_NPA,Upcoming_NPA,69,Self-Employed,True,Digital,552980,9216.33,3,60,2024-07-04,2025-11-25,False,False,Other
+CUST00408,Upcoming_NPA,Upcoming_NPA,38,Business,False,Cash,949078,15817.97,11,60,2024-12-16,2025-12-26,False,True,Other
+CUST00409,Upcoming_NPA,Upcoming_NPA,37,Salaried,False,Digital,318401,5306.68,15,60,2024-06-10,2025-12-27,False,False,Other
+CUST00410,Upcoming_NPA,Upcoming_NPA,46,Self-Employed,False,Digital,327164,5452.73,26,60,2025-09-15,2025-12-18,False,False,Other
+CUST00411,Upcoming_NPA,Upcoming_NPA,52,Business,True,Digital,223782,3729.7,23,60,2025-02-17,2025-12-12,False,True,Wrong documents/fake address
+CUST00412,Upcoming_NPA,Upcoming_NPA,48,Self-Employed,False,Cash,428710,7145.17,25,60,2024-07-09,2025-12-16,False,True,Other
+CUST00413,Upcoming_NPA,Upcoming_NPA,49,Business,True,Digital,307507,5125.12,23,60,2024-11-22,2025-12-15,False,True,Business loss
+CUST00414,Upcoming_NPA,Upcoming_NPA,52,Business,True,Cash,871009,14516.82,20,60,2025-01-15,2025-12-12,True,True,Other
+CUST00415,Upcoming_NPA,Upcoming_NPA,60,Salaried,True,Digital,389061,6484.35,19,60,2025-01-26,2025-12-04,False,True,Other
+CUST00416,Upcoming_NPA,Upcoming_NPA,73,Business,True,Cash,743296,12388.27,13,60,2024-03-16,2025-11-21,False,False,Other
+CUST00417,Upcoming_NPA,Upcoming_NPA,47,Business,True,Digital,718767,11979.45,26,60,2024-02-13,2025-12-17,False,True,Other
+CUST00418,Upcoming_NPA,Upcoming_NPA,62,Business,False,Cash,547860,9131.0,23,60,2025-05-14,2025-12-02,False,False,Other
+CUST00419,Upcoming_NPA,Upcoming_NPA,46,Business,False,Cash,478355,7972.58,21,60,2024-03-23,2025-12-18,True,True,Other
+CUST00420,Upcoming_NPA,Upcoming_NPA,68,Self-Employed,True,Cash,385469,6424.48,5,60,2025-05-13,2025-11-26,False,False,Fake loans/fake businesses
+CUST00421,Upcoming_NPA,Upcoming_NPA,66,Business,False,Cash,745096,12418.27,8,60,2024-10-02,2025-11-28,True,True,Other
+CUST00422,Upcoming_NPA,Upcoming_NPA,52,Business,True,Cash,322118,5368.63,6,60,2025-04-05,2025-12-12,True,False,Business loss
+CUST00423,Upcoming_NPA,Upcoming_NPA,57,Business,True,Digital,440891,7348.18,13,60,2025-05-22,2025-12-07,False,False,Other
+CUST00424,Upcoming_NPA,Upcoming_NPA,73,Salaried,True,Cash,348933,5815.55,26,60,2024-12-02,2025-11-21,False,True,Other
+CUST00425,Upcoming_NPA,Upcoming_NPA,46,Business,True,Digital,716835,11947.25,28,60,2025-06-30,2025-12-18,False,False,Other
+CUST00426,Upcoming_NPA,Upcoming_NPA,45,Business,False,Digital,466010,7766.83,24,60,2024-02-11,2025-12-19,False,True,Other
+CUST00427,Upcoming_NPA,Upcoming_NPA,66,Self-Employed,True,Cash,205350,3422.5,28,60,2024-08-03,2025-11-28,False,True,Wrong documents/fake address
+CUST00428,Upcoming_NPA,Upcoming_NPA,72,Business,False,Digital,384626,6410.43,11,60,2025-07-28,2025-11-22,True,False,Other
+CUST00429,Upcoming_NPA,Upcoming_NPA,37,Salaried,True,Digital,325180,5419.67,11,60,2025-07-31,2025-12-27,False,True,Other
+CUST00430,Upcoming_NPA,Upcoming_NPA,52,Business,False,Digital,823222,13720.37,7,60,2024-05-06,2025-12-12,False,True,Other
+CUST00431,Upcoming_NPA,Upcoming_NPA,51,Self-Employed,True,Cash,489384,8156.4,28,60,2025-12-10,2025-12-13,True,True,Business loss
+CUST00432,Upcoming_NPA,Upcoming_NPA,37,Business,True,Cash,798506,13308.43,3,60,2025-11-16,2025-12-27,True,True,Other
+CUST00433,Upcoming_NPA,Upcoming_NPA,76,Salaried,True,Cash,378385,6306.42,7,60,2024-05-18,2025-11-18,False,True,Business loss
+CUST00434,Upcoming_NPA,Upcoming_NPA,79,Self-Employed,False,Cash,564841,9414.02,23,60,2024-06-25,2025-11-15,False,True,Other
+CUST00435,Upcoming_NPA,Upcoming_NPA,47,Self-Employed,True,Cash,508402,8473.37,8,60,2025-10-03,2025-12-17,False,False,Other
+CUST00436,Upcoming_NPA,Upcoming_NPA,46,Business,False,Digital,345051,5750.85,14,60,2024-06-01,2025-12-18,False,True,Other
+CUST00437,Upcoming_NPA,Upcoming_NPA,55,Self-Employed,True,Cash,386562,6442.7,25,60,2025-02-27,2025-12-09,False,True,Wrong documents/fake address
+CUST00438,Upcoming_NPA,Upcoming_NPA,73,Business,False,Digital,950186,15836.43,13,60,2025-05-04,2025-11-21,True,False,Other
+CUST00439,Upcoming_NPA,Upcoming_NPA,71,Self-Employed,False,Cash,564758,9412.63,19,60,2025-07-01,2025-11-23,True,False,Other
+CUST00440,Upcoming_NPA,Upcoming_NPA,73,Salaried,True,Cash,300191,5003.18,12,60,2025-04-24,2025-11-21,False,True,Other
+CUST00441,Upcoming_NPA,Upcoming_NPA,31,Self-Employed,False,Cash,652648,10877.47,5,60,2024-03-22,2026-01-02,False,False,Fake loans/fake businesses
+CUST00442,Upcoming_NPA,Upcoming_NPA,56,Business,True,Cash,646790,10779.83,19,60,2024-11-26,2025-12-08,True,False,Other
+CUST00443,Upcoming_NPA,Upcoming_NPA,56,Self-Employed,False,Digital,548172,9136.2,22,60,2024-02-11,2025-12-08,False,True,Fake loans/fake businesses
+CUST00444,Upcoming_NPA,Upcoming_NPA,55,Business,True,Cash,842762,14046.03,11,60,2025-09-21,2025-12-09,False,False,Business loss
+CUST00445,Upcoming_NPA,Upcoming_NPA,74,Salaried,True,Digital,496087,8268.12,21,60,2024-03-14,2025-11-20,False,False,Bank employee misuse
+CUST00446,Upcoming_NPA,Upcoming_NPA,36,Business,False,Digital,261844,4364.07,16,60,2025-08-25,2025-12-28,True,False,Other
+CUST00447,Upcoming_NPA,Upcoming_NPA,74,Self-Employed,True,Cash,363606,6060.1,16,60,2024-08-28,2025-11-20,False,True,Other
+CUST00448,Upcoming_NPA,Upcoming_NPA,66,Self-Employed,True,Digital,295342,4922.37,6,60,2024-07-17,2025-11-28,False,False,Other
+CUST00449,Upcoming_NPA,Upcoming_NPA,78,Self-Employed,True,Cash,449188,7486.47,11,60,2024-08-13,2025-11-16,False,True,Business loss
+CUST00450,Upcoming_NPA,Upcoming_NPA,39,Salaried,True,Cash,400546,6675.77,21,60,2025-01-27,2025-12-25,True,False,Fake loans/fake businesses
+CUST00451,Upcoming_NPA,Upcoming_NPA,65,Business,False,Cash,392029,6533.82,7,60,2024-07-16,2025-11-29,False,True,Business loss
+CUST00452,Upcoming_NPA,Upcoming_NPA,77,Business,False,Digital,620343,10339.05,24,60,2025-06-05,2025-11-17,False,True,Other
+CUST00453,Upcoming_NPA,Upcoming_NPA,60,Business,True,Cash,278077,4634.62,11,60,2024-03-24,2025-12-04,False,True,Other
+CUST00454,Upcoming_NPA,Upcoming_NPA,77,Self-Employed,False,Digital,585928,9765.47,21,60,2025-10-15,2025-11-17,True,False,Other
+CUST00455,Upcoming_NPA,Upcoming_NPA,61,Salaried,False,Cash,113689,1894.82,9,60,2024-08-13,2025-12-03,True,True,Other
+CUST00456,Upcoming_NPA,Upcoming_NPA,58,Salaried,True,Cash,494754,8245.9,19,60,2024-06-08,2025-12-06,True,True,Other
+CUST00457,Upcoming_NPA,Upcoming_NPA,30,Self-Employed,True,Cash,279887,4664.78,6,60,2024-12-31,2026-01-03,False,False,Wrong documents/fake address
+CUST00458,Upcoming_NPA,Upcoming_NPA,62,Business,True,Cash,359034,5983.9,21,60,2025-07-20,2025-12-02,False,True,Other
+CUST00459,Upcoming_NPA,Upcoming_NPA,35,Salaried,False,Digital,420146,7002.43,14,60,2024-05-22,2025-12-29,False,False,Fake loans/fake businesses
+CUST00460,Upcoming_NPA,Upcoming_NPA,33,Business,True,Digital,417400,6956.67,7,60,2024-08-03,2025-12-31,False,False,Other
+CUST00461,Upcoming_NPA,Upcoming_NPA,48,Business,True,Cash,830752,13845.87,19,60,2025-12-23,2025-12-16,False,True,Other
+CUST00462,Upcoming_NPA,Upcoming_NPA,46,Business,True,Digital,354692,5911.53,24,60,2025-11-06,2025-12-18,False,True,Other
+CUST00463,Upcoming_NPA,Upcoming_NPA,51,Self-Employed,True,Cash,633779,10562.98,3,60,2025-08-16,2025-12-13,True,False,Business loss
+CUST00464,Upcoming_NPA,Upcoming_NPA,52,Self-Employed,False,Cash,239116,3985.27,26,60,2025-01-31,2025-12-12,True,False,Wrong documents/fake address
+CUST00465,Upcoming_NPA,Upcoming_NPA,58,Business,True,Cash,356989,5949.82,11,60,2025-10-14,2025-12-06,True,True,Other
+CUST00466,Upcoming_NPA,Upcoming_NPA,41,Salaried,True,Cash,310722,5178.7,18,60,2024-08-08,2025-12-23,False,True,Other
+CUST00467,Upcoming_NPA,Upcoming_NPA,72,Self-Employed,True,Digital,261541,4359.02,22,60,2025-09-18,2025-11-22,False,True,Other
+CUST00468,Upcoming_NPA,Upcoming_NPA,63,Business,True,Cash,212360,3539.33,3,60,2025-01-17,2025-12-01,False,True,Fake information about interest
+CUST00469,Upcoming_NPA,Upcoming_NPA,31,Business,False,Cash,386633,6443.88,23,60,2025-10-17,2026-01-02,False,False,Wrong documents/fake address
+CUST00470,Upcoming_NPA,Upcoming_NPA,51,Business,True,Cash,393984,6566.4,19,60,2025-03-09,2025-12-13,False,True,Other
+CUST00471,Upcoming_NPA,Upcoming_NPA,30,Salaried,True,Cash,221759,3695.98,8,60,2025-07-12,2026-01-03,False,True,Other
+CUST00472,Upcoming_NPA,Upcoming_NPA,79,Salaried,True,Digital,362043,6034.05,17,60,2025-04-08,2025-11-15,True,True,Other
+CUST00473,Upcoming_NPA,Upcoming_NPA,48,Self-Employed,False,Cash,488089,8134.82,20,60,2025-06-06,2025-12-16,False,True,Other
+CUST00474,Upcoming_NPA,Upcoming_NPA,76,Business,True,Cash,419128,6985.47,16,60,2025-10-27,2025-11-18,False,False,Other
+CUST00475,Upcoming_NPA,Upcoming_NPA,79,Business,False,Cash,605841,10097.35,18,60,2024-08-19,2025-11-15,True,False,Other
+CUST00476,Upcoming_NPA,Upcoming_NPA,42,Business,True,Cash,987446,16457.43,26,60,2024-05-11,2025-12-22,False,True,Other
+CUST00477,Upcoming_NPA,Upcoming_NPA,38,Salaried,True,Cash,448091,7468.18,3,60,2024-02-10,2025-12-26,True,True,Other
+CUST00478,Upcoming_NPA,Upcoming_NPA,31,Business,True,Digital,677177,11286.28,10,60,2024-11-10,2026-01-02,False,True,Other
+CUST00479,Upcoming_NPA,Upcoming_NPA,47,Business,True,Cash,993784,16563.07,15,60,2025-06-04,2025-12-17,False,True,Other
+CUST00480,Upcoming_NPA,Upcoming_NPA,33,Salaried,True,Digital,176709,2945.15,20,60,2025-09-05,2025-12-31,False,True,Fake loans/fake businesses
+CUST00481,Upcoming_NPA,Upcoming_NPA,34,Business,False,Digital,657666,10961.1,15,60,2025-03-07,2025-12-30,False,True,Bank employee misuse
+CUST00482,Upcoming_NPA,Upcoming_NPA,33,Business,True,Cash,626044,10434.07,28,60,2025-11-13,2025-12-31,True,False,Fake loans/fake businesses
+CUST00483,Upcoming_NPA,Upcoming_NPA,61,Business,False,Cash,261753,4362.55,9,60,2025-09-29,2025-12-03,False,False,Business loss
+CUST00484,Upcoming_NPA,Upcoming_NPA,74,Self-Employed,True,Digital,576070,9601.17,19,60,2025-10-20,2025-11-20,True,False,Other
+CUST00485,Upcoming_NPA,Upcoming_NPA,51,Self-Employed,True,Cash,173199,2886.65,16,60,2024-12-28,2025-12-13,False,True,Fake loans/fake businesses
+CUST00486,Upcoming_NPA,Upcoming_NPA,69,Business,False,Digital,869277,14487.95,24,60,2025-03-21,2025-11-25,False,True,Other
+CUST00487,Upcoming_NPA,Upcoming_NPA,43,Salaried,True,Cash,129345,2155.75,11,60,2025-05-15,2025-12-21,False,True,Business loss
+CUST00488,Upcoming_NPA,Upcoming_NPA,48,Self-Employed,False,Cash,165534,2758.9,3,60,2024-09-10,2025-12-16,False,True,Other
+CUST00489,Upcoming_NPA,Upcoming_NPA,30,Salaried,True,Cash,495136,8252.27,4,60,2025-10-03,2026-01-03,False,True,Other
+CUST00490,Upcoming_NPA,Upcoming_NPA,58,Self-Employed,False,Cash,270076,4501.27,7,60,2025-03-05,2025-12-06,False,False,Other
+CUST00491,Upcoming_NPA,Upcoming_NPA,30,Salaried,True,Cash,150940,2515.67,5,60,2025-06-11,2026-01-03,True,True,Other
+CUST00492,Upcoming_NPA,Upcoming_NPA,45,Salaried,True,Cash,349664,5827.73,27,60,2024-05-16,2025-12-19,True,True,Other
+CUST00493,Upcoming_NPA,Upcoming_NPA,70,Self-Employed,True,Digital,268696,4478.27,15,60,2025-08-18,2025-11-24,False,True,Other
+CUST00494,Upcoming_NPA,Upcoming_NPA,77,Salaried,True,Cash,455054,7584.23,27,60,2025-03-18,2025-11-17,True,True,Other
+CUST00495,Upcoming_NPA,Upcoming_NPA,47,Self-Employed,False,Cash,631215,10520.25,29,60,2025-02-15,2025-12-17,False,True,Other
+CUST00496,Upcoming_NPA,Upcoming_NPA,33,Self-Employed,False,Cash,259162,4319.37,29,60,2024-11-16,2025-12-31,False,True,Other
+CUST00497,Upcoming_NPA,Upcoming_NPA,57,Business,True,Cash,516463,8607.72,27,60,2025-08-21,2025-12-07,False,True,Other
+CUST00498,Upcoming_NPA,Upcoming_NPA,68,Business,False,Cash,683007,11383.45,14,60,2024-07-12,2025-11-26,False,True,Other
+CUST00499,Upcoming_NPA,Upcoming_NPA,35,Business,False,Digital,447572,7459.53,28,60,2024-09-01,2025-12-29,False,True,Fake loans/fake businesses
+CUST00500,Upcoming_NPA,Upcoming_NPA,71,Self-Employed,False,Cash,691287,11521.45,29,60,2025-11-25,2025-11-23,False,False,Other
+CUST00501,Upcoming_NPA,Upcoming_NPA,39,Self-Employed,True,Cash,627697,10461.62,20,60,2024-12-04,2025-12-25,False,True,Other
+CUST00502,Upcoming_NPA,Upcoming_NPA,78,Self-Employed,False,Cash,595093,9918.22,5,60,2025-05-27,2025-11-16,False,True,Other
+CUST00503,Upcoming_NPA,Upcoming_NPA,50,Business,True,Cash,852873,14214.55,9,60,2024-10-24,2025-12-14,True,False,Other
+CUST00504,Upcoming_NPA,Upcoming_NPA,35,Business,False,Digital,815168,13586.13,7,60,2024-06-08,2025-12-29,False,True,Other
+CUST00505,Upcoming_NPA,Upcoming_NPA,44,Self-Employed,True,Cash,275829,4597.15,27,60,2025-11-09,2025-12-20,False,True,Other
+CUST00506,Upcoming_NPA,Upcoming_NPA,36,Business,False,Digital,381429,6357.15,8,60,2024-02-16,2025-12-28,True,False,Other
+CUST00507,Upcoming_NPA,Upcoming_NPA,56,Business,False,Digital,377826,6297.1,17,60,2024-11-30,2025-12-08,False,True,Wrong documents/fake address
+CUST00508,Upcoming_NPA,Upcoming_NPA,50,Business,False,Cash,393839,6563.98,23,60,2024-05-16,2025-12-14,False,False,Other
+CUST00509,Upcoming_NPA,Upcoming_NPA,61,Self-Employed,True,Cash,589503,9825.05,7,60,2025-09-01,2025-12-03,False,True,Other
+CUST00510,Upcoming_NPA,Upcoming_NPA,48,Self-Employed,False,Cash,646915,10781.92,18,60,2025-06-07,2025-12-16,True,True,Other
+CUST00511,Upcoming_NPA,Upcoming_NPA,57,Self-Employed,True,Digital,180257,3004.28,6,60,2025-09-13,2025-12-07,False,False,Other
+CUST00512,Upcoming_NPA,Upcoming_NPA,61,Self-Employed,False,Cash,475329,7922.15,26,60,2024-09-20,2025-12-03,True,True,Business loss
+CUST00513,Upcoming_NPA,Upcoming_NPA,54,Business,True,Cash,977475,16291.25,3,60,2024-03-20,2025-12-10,False,True,Other
+CUST00514,Upcoming_NPA,Upcoming_NPA,46,Business,True,Cash,414127,6902.12,3,60,2024-12-25,2025-12-18,False,True,Other
+CUST00515,Upcoming_NPA,Upcoming_NPA,49,Business,False,Cash,336285,5604.75,15,60,2024-10-23,2025-12-15,False,True,Other
+CUST00516,Upcoming_NPA,Upcoming_NPA,51,Business,True,Cash,822288,13704.8,22,60,2024-04-16,2025-12-13,False,True,Other
+CUST00517,Upcoming_NPA,Upcoming_NPA,45,Business,False,Cash,721396,12023.27,25,60,2025-10-08,2025-12-19,True,True,Fake loans/fake businesses
+CUST00518,Upcoming_NPA,Upcoming_NPA,66,Business,False,Digital,911943,15199.05,17,60,2024-05-07,2025-11-28,True,True,Other
+CUST00519,Upcoming_NPA,Upcoming_NPA,41,Business,False,Digital,812242,13537.37,16,60,2024-07-30,2025-12-23,True,True,Fake loans/fake businesses
+CUST00520,Upcoming_NPA,Upcoming_NPA,49,Salaried,False,Cash,352388,5873.13,22,60,2024-04-06,2025-12-15,False,True,Wrong documents/fake address
+CUST00521,Upcoming_NPA,Upcoming_NPA,52,Business,True,Cash,561309,9355.15,26,60,2025-11-05,2025-12-12,True,True,Other
+CUST00522,Upcoming_NPA,Upcoming_NPA,42,Salaried,True,Digital,406398,6773.3,20,60,2025-07-22,2025-12-22,True,True,Business loss
+CUST00523,Upcoming_NPA,Upcoming_NPA,31,Business,False,Cash,997124,16618.73,8,60,2025-04-13,2026-01-02,False,True,Other
+CUST00524,Upcoming_NPA,Upcoming_NPA,77,Salaried,False,Cash,387710,6461.83,12,60,2024-10-22,2025-11-17,False,True,Other
+CUST00525,Upcoming_NPA,Upcoming_NPA,42,Self-Employed,True,Digital,266841,4447.35,17,60,2024-08-19,2025-12-22,True,False,Other
+CUST00526,Upcoming_NPA,Upcoming_NPA,49,Salaried,True,Cash,311144,5185.73,14,60,2024-11-02,2025-12-15,False,True,Business loss
+CUST00527,Upcoming_NPA,Upcoming_NPA,77,Self-Employed,True,Cash,259373,4322.88,10,60,2025-05-20,2025-11-17,False,False,Other
+CUST00528,Upcoming_NPA,Upcoming_NPA,43,Business,True,Cash,642136,10702.27,15,60,2024-03-03,2025-12-21,False,True,Other
+CUST00529,Upcoming_NPA,Upcoming_NPA,59,Business,True,Cash,692239,11537.32,24,60,2024-05-06,2025-12-05,True,False,Other
+CUST00530,Upcoming_NPA,Upcoming_NPA,35,Self-Employed,False,Cash,593066,9884.43,14,60,2025-07-11,2025-12-29,True,True,Other
+CUST00531,Upcoming_NPA,Upcoming_NPA,54,Salaried,True,Cash,251014,4183.57,24,60,2024-12-12,2025-12-10,False,False,Other
+CUST00532,Upcoming_NPA,Upcoming_NPA,49,Self-Employed,True,Cash,332220,5537.0,19,60,2025-11-07,2025-12-15,False,False,Other
+CUST00533,Upcoming_NPA,Upcoming_NPA,37,Salaried,True,Digital,321094,5351.57,7,60,2024-08-25,2025-12-27,True,False,Other
+CUST00534,Upcoming_NPA,Upcoming_NPA,47,Self-Employed,False,Digital,461793,7696.55,16,60,2025-10-02,2025-12-17,False,True,Other
+CUST00535,Upcoming_NPA,Upcoming_NPA,77,Self-Employed,True,Cash,444067,7401.12,12,60,2025-01-05,2025-11-17,False,True,Wrong documents/fake address
+CUST00536,Upcoming_NPA,Upcoming_NPA,62,Business,False,Digital,668011,11133.52,5,60,2025-09-28,2025-12-02,False,True,Other
+CUST00537,Upcoming_NPA,Upcoming_NPA,74,Salaried,True,Cash,246621,4110.35,14,60,2025-02-17,2025-11-20,False,True,Business loss
+CUST00538,Upcoming_NPA,Upcoming_NPA,68,Salaried,True,Cash,207228,3453.8,23,60,2024-11-06,2025-11-26,True,True,Business loss
+CUST00539,Upcoming_NPA,Upcoming_NPA,66,Business,True,Cash,570608,9510.13,5,60,2024-12-29,2025-11-28,False,True,Other
+CUST00540,Upcoming_NPA,Upcoming_NPA,69,Business,True,Cash,342482,5708.03,26,60,2025-12-07,2025-11-25,True,False,Other
+CUST00541,Upcoming_NPA,Upcoming_NPA,33,Self-Employed,False,Cash,376572,6276.2,22,60,2024-06-13,2025-12-31,True,False,Other
+CUST00542,Upcoming_NPA,Upcoming_NPA,75,Business,True,Cash,951287,15854.78,29,60,2025-06-08,2025-11-19,True,True,Other
+CUST00543,Upcoming_NPA,Upcoming_NPA,53,Self-Employed,False,Cash,473720,7895.33,17,60,2025-07-04,2025-12-11,False,True,Other
+CUST00544,Upcoming_NPA,Upcoming_NPA,54,Business,True,Cash,362421,6040.35,12,60,2025-10-23,2025-12-10,True,False,Other
+CUST00545,Upcoming_NPA,Upcoming_NPA,32,Self-Employed,True,Digital,263776,4396.27,17,60,2025-07-25,2026-01-01,False,True,Other
+CUST00546,Upcoming_NPA,Upcoming_NPA,63,Business,True,Digital,846275,14104.58,25,60,2024-02-16,2025-12-01,False,True,Fake loans/fake businesses
+CUST00547,Upcoming_NPA,Upcoming_NPA,59,Business,False,Digital,277525,4625.42,23,60,2024-10-15,2025-12-05,False,True,Other
+CUST00548,Upcoming_NPA,Upcoming_NPA,75,Self-Employed,True,Cash,699752,11662.53,28,60,2025-10-26,2025-11-19,True,True,Other
+CUST00549,Upcoming_NPA,Upcoming_NPA,33,Self-Employed,True,Digital,356486,5941.43,5,60,2024-07-01,2025-12-31,False,True,Wrong documents/fake address
+CUST00550,Upcoming_NPA,Upcoming_NPA,40,Business,True,Cash,691830,11530.5,7,60,2025-11-09,2025-12-24,False,True,Fake loans/fake businesses
+CUST00551,Upcoming_NPA,Upcoming_NPA,77,Business,False,Cash,992330,16538.83,14,60,2024-05-12,2025-11-17,True,False,Other
+CUST00552,Upcoming_NPA,Upcoming_NPA,57,Business,True,Digital,550164,9169.4,26,60,2024-08-27,2025-12-07,False,True,Wrong documents/fake address
+CUST00553,Upcoming_NPA,Upcoming_NPA,30,Self-Employed,True,Cash,329689,5494.82,24,60,2024-11-04,2026-01-03,True,False,Other
+CUST00554,Upcoming_NPA,Upcoming_NPA,74,Business,True,Cash,980277,16337.95,28,60,2024-03-22,2025-11-20,False,True,Other
+CUST00555,Upcoming_NPA,Upcoming_NPA,35,Self-Employed,True,Cash,392318,6538.63,24,60,2024-08-13,2025-12-29,False,True,Other
+CUST00556,Upcoming_NPA,Upcoming_NPA,64,Salaried,True,Cash,435064,7251.07,4,60,2025-12-09,2025-11-30,True,True,Fake loans/fake businesses
+CUST00557,Upcoming_NPA,Upcoming_NPA,79,Business,False,Digital,591180,9853.0,9,60,2024-12-16,2025-11-15,False,True,Other
+CUST00558,Upcoming_NPA,Upcoming_NPA,76,Business,True,Cash,742307,12371.78,5,60,2025-09-04,2025-11-18,True,False,Other
+CUST00559,Upcoming_NPA,Upcoming_NPA,46,Business,False,Cash,322019,5366.98,15,60,2025-08-29,2025-12-18,False,True,Other
+CUST00560,Upcoming_NPA,Upcoming_NPA,33,Self-Employed,True,Digital,294771,4912.85,15,60,2025-03-26,2025-12-31,False,False,Business loss
+CUST00561,Upcoming_NPA,Upcoming_NPA,37,Self-Employed,False,Digital,462257,7704.28,10,60,2024-05-31,2025-12-27,True,False,Other
+CUST00562,Upcoming_NPA,Upcoming_NPA,45,Self-Employed,False,Cash,297878,4964.63,4,60,2025-07-17,2025-12-19,True,True,Wrong documents/fake address
+CUST00563,Upcoming_NPA,Upcoming_NPA,75,Salaried,True,Cash,335113,5585.22,20,60,2024-11-06,2025-11-19,False,True,Other
+CUST00564,Upcoming_NPA,Upcoming_NPA,35,Self-Employed,True,Cash,284794,4746.57,13,60,2024-11-29,2025-12-29,False,True,Fake loans/fake businesses
+CUST00565,Upcoming_NPA,Upcoming_NPA,48,Self-Employed,False,Digital,495280,8254.67,22,60,2025-08-07,2025-12-16,True,True,Other
+CUST00566,Upcoming_NPA,Upcoming_NPA,32,Business,True,Cash,525137,8752.28,19,60,2025-04-28,2026-01-01,True,True,Other
+CUST00567,Upcoming_NPA,Upcoming_NPA,76,Self-Employed,True,Digital,447883,7464.72,4,60,2025-05-12,2025-11-18,False,True,Other
+CUST00568,Upcoming_NPA,Upcoming_NPA,71,Salaried,True,Cash,199352,3322.53,16,60,2025-01-14,2025-11-23,False,True,Fake loans/fake businesses
+CUST00569,Upcoming_NPA,Upcoming_NPA,40,Business,False,Cash,678928,11315.47,4,60,2025-09-05,2025-12-24,False,True,Wrong documents/fake address
+CUST00570,Upcoming_NPA,Upcoming_NPA,78,Salaried,False,Digital,409509,6825.15,27,60,2025-01-05,2025-11-16,False,True,Other
+CUST00571,Upcoming_NPA,Upcoming_NPA,42,Self-Employed,True,Cash,182766,3046.1,10,60,2025-04-16,2025-12-22,False,True,Fake loans/fake businesses
+CUST00572,Upcoming_NPA,Upcoming_NPA,41,Self-Employed,True,Cash,170855,2847.58,6,60,2024-08-02,2025-12-23,True,True,Other
+CUST00573,Upcoming_NPA,Upcoming_NPA,58,Business,True,Cash,315657,5260.95,9,60,2025-07-08,2025-12-06,False,True,Other
+CUST00574,Upcoming_NPA,Upcoming_NPA,65,Business,False,Cash,596308,9938.47,7,60,2025-12-08,2025-11-29,True,True,Other
+CUST00575,Upcoming_NPA,Upcoming_NPA,65,Self-Employed,True,Cash,170323,2838.72,15,60,2024-09-20,2025-11-29,True,True,Other
+CUST00576,Upcoming_NPA,Upcoming_NPA,65,Business,False,Cash,257062,4284.37,21,60,2024-07-03,2025-11-29,False,True,Other
+CUST00577,Upcoming_NPA,Upcoming_NPA,38,Self-Employed,True,Cash,678036,11300.6,24,60,2025-03-10,2025-12-26,False,False,Fake loans/fake businesses
+CUST00578,Upcoming_NPA,Upcoming_NPA,36,Salaried,True,Cash,440130,7335.5,27,60,2025-06-29,2025-12-28,False,False,Other
+CUST00579,Upcoming_NPA,Upcoming_NPA,39,Self-Employed,True,Cash,518655,8644.25,16,60,2024-11-07,2025-12-25,True,True,Other
+CUST00580,Upcoming_NPA,Upcoming_NPA,50,Business,True,Digital,628638,10477.3,19,60,2025-05-24,2025-12-14,False,True,Other
+CUST00581,Upcoming_NPA,Upcoming_NPA,71,Business,False,Cash,834151,13902.52,20,60,2025-07-17,2025-11-23,True,True,Fake loans/fake businesses
+CUST00582,Upcoming_NPA,Upcoming_NPA,56,Self-Employed,False,Cash,689317,11488.62,22,60,2024-02-26,2025-12-08,False,True,Other
+CUST00583,Upcoming_NPA,Upcoming_NPA,71,Salaried,True,Digital,469193,7819.88,17,60,2024-11-09,2025-11-23,False,True,Business loss
+CUST00584,Upcoming_NPA,Upcoming_NPA,79,Salaried,True,Cash,154745,2579.08,27,60,2025-02-16,2025-11-15,False,True,Wrong documents/fake address
+CUST00585,Upcoming_NPA,Upcoming_NPA,39,Salaried,True,Cash,218843,3647.38,4,60,2025-02-17,2025-12-25,False,False,Other
+CUST00586,Upcoming_NPA,Upcoming_NPA,31,Business,False,Cash,214859,3580.98,7,60,2025-08-01,2026-01-02,False,True,Other
+CUST00587,Upcoming_NPA,Upcoming_NPA,75,Salaried,True,Cash,236319,3938.65,28,60,2025-02-06,2025-11-19,False,False,Other
+CUST00588,Upcoming_NPA,Upcoming_NPA,51,Self-Employed,False,Digital,257615,4293.58,3,60,2025-07-24,2025-12-13,False,True,Fake information about interest
+CUST00589,Upcoming_NPA,Upcoming_NPA,74,Self-Employed,True,Cash,532706,8878.43,16,60,2024-12-04,2025-11-20,False,True,Other
+CUST00590,Upcoming_NPA,Upcoming_NPA,36,Salaried,False,Digital,368782,6146.37,14,60,2024-05-04,2025-12-28,False,False,Other
+CUST00591,Upcoming_NPA,Upcoming_NPA,43,Salaried,True,Digital,223664,3727.73,21,60,2025-09-16,2025-12-21,False,True,Other
+CUST00592,Upcoming_NPA,Upcoming_NPA,49,Self-Employed,True,Cash,341896,5698.27,24,60,2024-08-14,2025-12-15,False,True,Other
+CUST00593,Upcoming_NPA,Upcoming_NPA,73,Salaried,True,Digital,150519,2508.65,13,60,2025-11-11,2025-11-21,True,False,Other
+CUST00594,Upcoming_NPA,Upcoming_NPA,30,Self-Employed,True,Cash,244913,4081.88,22,60,2025-02-12,2026-01-03,False,True,Other
+CUST00595,Upcoming_NPA,Upcoming_NPA,64,Business,True,Cash,851539,14192.32,11,60,2024-02-25,2025-11-30,True,True,Other
+CUST00596,Upcoming_NPA,Upcoming_NPA,74,Business,False,Digital,873243,14554.05,22,60,2025-09-15,2025-11-20,False,False,Fake loans/fake businesses
+CUST00597,Upcoming_NPA,Upcoming_NPA,37,Business,True,Cash,691818,11530.3,15,60,2025-08-20,2025-12-27,False,True,Business loss
+CUST00598,Upcoming_NPA,Upcoming_NPA,41,Self-Employed,True,Cash,196121,3268.68,29,60,2024-07-30,2025-12-23,False,True,Other
+CUST00599,Upcoming_NPA,Upcoming_NPA,75,Self-Employed,False,Cash,622295,10371.58,10,60,2024-10-18,2025-11-19,False,False,Business loss
+CUST00600,Upcoming_NPA,Upcoming_NPA,68,Self-Employed,True,Digital,442717,7378.62,14,60,2024-06-20,2025-11-26,True,True,Other
+CUST00601,Upcoming_NPA,Upcoming_NPA,42,Business,False,Cash,740277,12337.95,6,60,2025-10-21,2025-12-22,True,True,Other
+CUST00602,Upcoming_NPA,Upcoming_NPA,57,Business,True,Cash,502619,8376.98,13,60,2025-01-02,2025-12-07,False,False,Other
+CUST00603,Upcoming_NPA,Upcoming_NPA,62,Self-Employed,True,Cash,490687,8178.12,16,60,2024-11-16,2025-12-02,True,False,Other
+CUST00604,Upcoming_NPA,Upcoming_NPA,54,Self-Employed,True,Cash,322275,5371.25,28,60,2024-11-08,2025-12-10,False,True,Other
+CUST00605,Upcoming_NPA,Upcoming_NPA,46,Business,True,Cash,200390,3339.83,18,60,2024-12-19,2025-12-18,False,False,Other
+CUST00606,Upcoming_NPA,Upcoming_NPA,73,Self-Employed,True,Digital,539546,8992.43,24,60,2025-04-19,2025-11-21,False,True,Other
+CUST00607,Upcoming_NPA,Upcoming_NPA,64,Salaried,True,Cash,371091,6184.85,29,60,2025-03-27,2025-11-30,False,True,Fake loans/fake businesses
+CUST00608,Upcoming_NPA,Upcoming_NPA,58,Salaried,True,Cash,186436,3107.27,19,60,2024-07-02,2025-12-06,True,False,Other
+CUST00609,Upcoming_NPA,Upcoming_NPA,33,Salaried,True,Digital,171947,2865.78,6,60,2024-07-23,2025-12-31,False,True,Other
+CUST00610,Upcoming_NPA,Upcoming_NPA,55,Business,True,Digital,209927,3498.78,26,60,2024-05-16,2025-12-09,False,True,Other
+CUST00611,Upcoming_NPA,Upcoming_NPA,59,Business,True,Digital,601013,10016.88,29,60,2024-11-07,2025-12-05,True,True,Other
+CUST00612,Upcoming_NPA,Upcoming_NPA,62,Self-Employed,True,Cash,547172,9119.53,14,60,2025-04-05,2025-12-02,False,False,Other
+CUST00613,Upcoming_NPA,Upcoming_NPA,66,Business,False,Cash,925571,15426.18,29,60,2025-06-22,2025-11-28,False,False,Other
+CUST00614,Upcoming_NPA,Upcoming_NPA,73,Business,True,Cash,899476,14991.27,25,60,2025-08-13,2025-11-21,True,True,Other
+CUST00615,Upcoming_NPA,Upcoming_NPA,78,Self-Employed,True,Cash,627910,10465.17,7,60,2024-06-29,2025-11-16,False,False,Other
+CUST00616,Upcoming_NPA,Upcoming_NPA,44,Business,True,Cash,655433,10923.88,17,60,2025-11-30,2025-12-20,False,True,Other
+CUST00617,Upcoming_NPA,Upcoming_NPA,48,Business,True,Cash,499182,8319.7,6,60,2024-02-13,2025-12-16,False,True,Other
+CUST00618,Upcoming_NPA,Upcoming_NPA,42,Business,True,Cash,265524,4425.4,27,60,2025-02-11,2025-12-22,False,True,Fake loans/fake businesses
+CUST00619,Upcoming_NPA,Upcoming_NPA,53,Self-Employed,True,Cash,593599,9893.32,16,60,2024-12-31,2025-12-11,False,True,Business loss
+CUST00620,Upcoming_NPA,Upcoming_NPA,55,Business,False,Cash,302166,5036.1,13,60,2025-08-23,2025-12-09,False,False,Business loss
+CUST00621,Upcoming_NPA,Upcoming_NPA,42,Salaried,True,Cash,412638,6877.3,27,60,2025-10-04,2025-12-22,False,True,Other
+CUST00622,Upcoming_NPA,Upcoming_NPA,69,Business,False,Cash,262712,4378.53,4,60,2025-02-15,2025-11-25,True,True,Other
+CUST00623,Upcoming_NPA,Upcoming_NPA,68,Self-Employed,True,Cash,478821,7980.35,20,60,2025-01-02,2025-11-26,False,True,Business loss
+CUST00624,Upcoming_NPA,Upcoming_NPA,76,Business,True,Cash,562232,9370.53,25,60,2025-08-10,2025-11-18,True,True,Other
+CUST00625,Upcoming_NPA,Upcoming_NPA,74,Salaried,True,Cash,406038,6767.3,24,60,2024-03-12,2025-11-20,False,True,Other
+CUST00626,Upcoming_NPA,Upcoming_NPA,57,Self-Employed,True,Digital,588963,9816.05,19,60,2025-11-28,2025-12-07,False,True,Other
+CUST00627,Upcoming_NPA,Upcoming_NPA,45,Business,False,Cash,608213,10136.88,18,60,2024-07-13,2025-12-19,False,True,Business loss
+CUST00628,Upcoming_NPA,Upcoming_NPA,73,Business,False,Cash,753044,12550.73,27,60,2024-09-02,2025-11-21,False,True,Other
+CUST00629,Upcoming_NPA,Upcoming_NPA,72,Business,False,Digital,203729,3395.48,25,60,2024-09-28,2025-11-22,False,True,Other
+CUST00630,Upcoming_NPA,Upcoming_NPA,74,Salaried,True,Digital,202834,3380.57,12,60,2025-08-22,2025-11-20,True,True,Fake information about interest
+CUST00631,Upcoming_NPA,Upcoming_NPA,38,Business,True,Cash,202159,3369.32,15,60,2024-05-25,2025-12-26,False,True,Other
+CUST00632,Upcoming_NPA,Upcoming_NPA,57,Self-Employed,True,Cash,651233,10853.88,11,60,2025-08-23,2025-12-07,True,True,Business loss
+CUST00633,Upcoming_NPA,Upcoming_NPA,40,Self-Employed,False,Cash,626384,10439.73,26,60,2024-07-22,2025-12-24,False,True,Other
+CUST00634,Upcoming_NPA,Upcoming_NPA,74,Self-Employed,False,Cash,547819,9130.32,13,60,2024-09-09,2025-11-20,True,True,Other
+CUST00635,Upcoming_NPA,Upcoming_NPA,48,Business,True,Cash,321897,5364.95,21,60,2024-09-10,2025-12-16,False,True,Fake loans/fake businesses
+CUST00636,Upcoming_NPA,Upcoming_NPA,63,Self-Employed,True,Cash,287263,4787.72,13,60,2024-07-02,2025-12-01,True,False,Other
+CUST00637,Upcoming_NPA,Upcoming_NPA,47,Self-Employed,True,Digital,150515,2508.58,10,60,2024-08-01,2025-12-17,False,True,Fake information about interest
+CUST00638,Upcoming_NPA,Upcoming_NPA,44,Salaried,False,Cash,166323,2772.05,17,60,2024-03-17,2025-12-20,True,False,Wrong documents/fake address
+CUST00639,Upcoming_NPA,Upcoming_NPA,74,Business,True,Digital,838447,13974.12,16,60,2024-08-01,2025-11-20,False,True,Other
+CUST00640,Upcoming_NPA,Upcoming_NPA,71,Business,False,Cash,426377,7106.28,26,60,2025-10-23,2025-11-23,True,True,Other
+CUST00641,Current_NPA,Current_NPA,112,Business,False,Cash,899597,14993.28,19,60,2025-06-21,2025-10-13,True,False,Other
+CUST00642,Current_NPA,Current_NPA,170,Salaried,False,Cash,362875,6047.92,10,60,2024-12-25,2025-08-16,True,False,Other
+CUST00643,Current_NPA,Current_NPA,153,Business,True,Cash,823982,13733.03,16,60,2024-12-16,2025-09-02,True,False,Other
+CUST00644,Current_NPA,Current_NPA,144,Salaried,True,Cash,345277,5754.62,19,60,2025-03-05,2025-09-11,True,True,Fake loans/fake businesses
+CUST00645,Current_NPA,Current_NPA,181,Self-Employed,True,Cash,388540,6475.67,7,60,2025-08-02,2025-08-05,True,False,Business loss
+CUST00646,Current_NPA,Current_NPA,95,Business,True,Cash,538250,8970.83,19,60,2024-09-09,2025-10-30,False,True,Other
+CUST00647,Current_NPA,Current_NPA,137,Self-Employed,False,Digital,202949,3382.48,7,60,2024-04-23,2025-09-18,True,False,Fake information about interest
+CUST00648,Current_NPA,Current_NPA,92,Salaried,True,Digital,150906,2515.1,16,60,2025-05-19,2025-11-02,False,False,Other
+CUST00649,Current_NPA,Current_NPA,122,Salaried,True,Cash,378910,6315.17,17,60,2024-10-29,2025-10-03,True,False,Business loss
+CUST00650,Current_NPA,Current_NPA,103,Business,False,Cash,754768,12579.47,18,60,2025-11-15,2025-10-22,False,True,Other
+CUST00651,Current_NPA,Current_NPA,139,Business,True,Cash,903022,15050.37,13,60,2025-01-08,2025-09-16,True,False,Other
+CUST00652,Current_NPA,Current_NPA,102,Business,True,Cash,618680,10311.33,2,60,2025-10-14,2025-10-23,True,False,Other
+CUST00653,Current_NPA,Current_NPA,127,Salaried,True,Cash,359021,5983.68,3,60,2024-09-06,2025-09-28,True,False,Other
+CUST00654,Current_NPA,Current_NPA,147,Salaried,False,Cash,207357,3455.95,6,60,2024-05-21,2025-09-08,True,False,Other
+CUST00655,Current_NPA,Current_NPA,194,Self-Employed,True,Digital,633178,10552.97,4,60,2025-01-27,2025-07-23,True,True,Business loss
+CUST00656,Current_NPA,Current_NPA,199,Business,False,Cash,200215,3336.92,4,60,2025-04-19,2025-07-18,False,False,Other
+CUST00657,Current_NPA,Current_NPA,195,Salaried,True,Digital,367727,6128.78,2,60,2024-05-15,2025-07-22,True,False,Business loss
+CUST00658,Current_NPA,Current_NPA,143,Self-Employed,True,Cash,600985,10016.42,17,60,2025-10-17,2025-09-12,True,True,Other
+CUST00659,Current_NPA,Current_NPA,157,Business,True,Digital,950887,15848.12,6,60,2024-09-21,2025-08-29,True,True,Other
+CUST00660,Current_NPA,Current_NPA,118,Business,True,Cash,889995,14833.25,10,60,2024-10-26,2025-10-07,False,False,Business loss
+CUST00661,Current_NPA,Current_NPA,161,Self-Employed,True,Cash,456606,7610.1,7,60,2025-10-13,2025-08-25,False,True,Other
+CUST00662,Current_NPA,Current_NPA,182,Business,False,Cash,534248,8904.13,10,60,2024-05-04,2025-08-04,True,False,Other
+CUST00663,Current_NPA,Current_NPA,127,Self-Employed,True,Digital,436610,7276.83,12,60,2024-09-09,2025-09-28,False,False,Other
+CUST00664,Current_NPA,Current_NPA,126,Salaried,True,Digital,470191,7836.52,12,60,2025-11-04,2025-09-29,False,True,Other
+CUST00665,Current_NPA,Current_NPA,153,Business,False,Digital,204011,3400.18,7,60,2025-09-18,2025-09-02,False,True,Other
+CUST00666,Current_NPA,Current_NPA,160,Self-Employed,False,Cash,381237,6353.95,9,60,2025-01-29,2025-08-26,False,False,Other
+CUST00667,Current_NPA,Current_NPA,95,Self-Employed,True,Cash,506742,8445.7,15,60,2025-11-21,2025-10-30,True,False,Other
+CUST00668,Current_NPA,Current_NPA,180,Business,True,Digital,371616,6193.6,16,60,2024-05-15,2025-08-06,True,False,Other
+CUST00669,Current_NPA,Current_NPA,156,Salaried,True,Digital,292150,4869.17,7,60,2024-08-07,2025-08-30,True,False,Other
+CUST00670,Current_NPA,Current_NPA,150,Self-Employed,False,Cash,447542,7459.03,2,60,2024-03-05,2025-09-05,True,True,Fake loans/fake businesses
+CUST00671,Current_NPA,Current_NPA,152,Business,False,Digital,569359,9489.32,9,60,2025-12-03,2025-09-03,True,True,Other
+CUST00672,Current_NPA,Current_NPA,147,Salaried,True,Digital,246702,4111.7,1,60,2025-10-22,2025-09-08,True,True,Fake loans/fake businesses
+CUST00673,Current_NPA,Current_NPA,177,Salaried,True,Cash,356228,5937.13,2,60,2025-01-17,2025-08-09,False,True,Other
+CUST00674,Current_NPA,Current_NPA,139,Business,True,Digital,399316,6655.27,18,60,2024-02-09,2025-09-16,False,False,Other
+CUST00675,Current_NPA,Current_NPA,173,Business,True,Cash,449264,7487.73,4,60,2025-01-31,2025-08-13,True,False,Business loss
+CUST00676,Current_NPA,Current_NPA,166,Self-Employed,True,Cash,187394,3123.23,14,60,2025-10-04,2025-08-20,True,True,Other
+CUST00677,Current_NPA,Current_NPA,108,Self-Employed,False,Digital,374062,6234.37,3,60,2025-11-16,2025-10-17,True,False,Other
+CUST00678,Current_NPA,Current_NPA,96,Self-Employed,True,Cash,295213,4920.22,1,60,2024-06-22,2025-10-29,False,True,Other
+CUST00679,Current_NPA,Current_NPA,192,Self-Employed,False,Cash,587480,9791.33,14,60,2024-03-09,2025-07-25,False,False,Other
+CUST00680,Current_NPA,Current_NPA,152,Salaried,True,Cash,358667,5977.78,17,60,2025-08-17,2025-09-03,True,False,Other
+CUST00681,Current_NPA,Current_NPA,197,Salaried,True,Cash,445665,7427.75,10,60,2024-10-04,2025-07-20,False,True,Business loss
+CUST00682,Current_NPA,Current_NPA,91,Salaried,True,Cash,312235,5203.92,8,60,2025-02-16,2025-11-03,True,True,Other
+CUST00683,Current_NPA,Current_NPA,199,Salaried,False,Cash,460971,7682.85,19,60,2025-10-25,2025-07-18,True,True,Other
+CUST00684,Current_NPA,Current_NPA,190,Business,False,Cash,933375,15556.25,3,60,2024-12-22,2025-07-27,True,True,Business loss
+CUST00685,Current_NPA,Current_NPA,159,Salaried,True,Cash,324522,5408.7,6,60,2024-04-26,2025-08-27,True,False,Other
+CUST00686,Current_NPA,Current_NPA,101,Salaried,True,Cash,145689,2428.15,17,60,2024-03-18,2025-10-24,True,False,Business loss
+CUST00687,Current_NPA,Current_NPA,131,Salaried,True,Cash,496419,8273.65,18,60,2025-06-21,2025-09-24,False,False,Fake loans/fake businesses
+CUST00688,Current_NPA,Current_NPA,140,Self-Employed,True,Cash,545783,9096.38,11,60,2024-04-08,2025-09-15,False,False,Fake loans/fake businesses
+CUST00689,Current_NPA,Current_NPA,182,Self-Employed,True,Digital,432260,7204.33,12,60,2025-03-04,2025-08-04,True,True,Bank employee misuse
+CUST00690,Current_NPA,Current_NPA,115,Business,True,Cash,808811,13480.18,10,60,2024-12-25,2025-10-10,False,False,Business loss
+CUST00691,Current_NPA,Current_NPA,140,Salaried,False,Cash,316916,5281.93,7,60,2024-10-18,2025-09-15,True,False,Other
+CUST00692,Current_NPA,Current_NPA,131,Salaried,True,Digital,344255,5737.58,10,60,2025-12-10,2025-09-24,False,True,Other
+CUST00693,Current_NPA,Current_NPA,182,Business,False,Digital,878145,14635.75,18,60,2024-02-17,2025-08-04,False,False,Other
+CUST00694,Current_NPA,Current_NPA,107,Self-Employed,True,Cash,575643,9594.05,10,60,2025-01-26,2025-10-18,True,False,Other
+CUST00695,Current_NPA,Current_NPA,136,Self-Employed,True,Digital,647873,10797.88,5,60,2025-04-04,2025-09-19,False,True,Business loss
+CUST00696,Current_NPA,Current_NPA,123,Salaried,True,Digital,149156,2485.93,13,60,2025-01-30,2025-10-02,True,False,Other
+CUST00697,Current_NPA,Current_NPA,165,Business,False,Cash,509732,8495.53,12,60,2025-04-21,2025-08-21,False,False,Other
+CUST00698,Current_NPA,Current_NPA,112,Self-Employed,False,Cash,155636,2593.93,11,60,2025-02-08,2025-10-13,True,True,Other
+CUST00699,Current_NPA,Current_NPA,96,Business,False,Cash,511011,8516.85,6,60,2024-06-06,2025-10-29,True,False,Other
+CUST00700,Current_NPA,Current_NPA,174,Self-Employed,True,Digital,635287,10588.12,13,60,2024-03-12,2025-08-12,True,False,Other
+CUST00701,Current_NPA,Current_NPA,120,Salaried,True,Cash,120836,2013.93,16,60,2025-01-16,2025-10-05,True,False,Other
+CUST00702,Current_NPA,Current_NPA,145,Salaried,False,Cash,459014,7650.23,10,60,2025-01-04,2025-09-10,True,False,Fake information about interest
+CUST00703,Current_NPA,Current_NPA,122,Salaried,True,Digital,450514,7508.57,10,60,2024-02-21,2025-10-03,True,True,Other
+CUST00704,Current_NPA,Current_NPA,140,Salaried,False,Digital,206471,3441.18,4,60,2025-03-29,2025-09-15,False,False,Other
+CUST00705,Current_NPA,Current_NPA,142,Salaried,False,Cash,308886,5148.1,2,60,2025-09-21,2025-09-13,True,True,Fake loans/fake businesses
+CUST00706,Current_NPA,Current_NPA,117,Salaried,True,Cash,381321,6355.35,1,60,2025-07-21,2025-10-08,False,False,Other
+CUST00707,Current_NPA,Current_NPA,135,Business,True,Cash,225494,3758.23,4,60,2024-10-28,2025-09-20,True,True,Other
+CUST00708,Current_NPA,Current_NPA,193,Business,True,Cash,319975,5332.92,16,60,2025-11-14,2025-07-24,True,False,Other
+CUST00709,Current_NPA,Current_NPA,146,Business,False,Cash,246015,4100.25,12,60,2024-11-10,2025-09-09,True,False,Other
+CUST00710,Current_NPA,Current_NPA,138,Salaried,True,Digital,164926,2748.77,15,60,2025-08-06,2025-09-17,True,True,Other
+CUST00711,Current_NPA,Current_NPA,166,Business,False,Cash,227043,3784.05,4,60,2024-09-23,2025-08-20,True,True,Fake loans/fake businesses
+CUST00712,Current_NPA,Current_NPA,157,Self-Employed,False,Cash,678425,11307.08,9,60,2025-05-18,2025-08-29,True,False,Other
+CUST00713,Current_NPA,Current_NPA,140,Self-Employed,True,Digital,387268,6454.47,17,60,2025-08-12,2025-09-15,False,False,Other
+CUST00714,Current_NPA,Current_NPA,127,Self-Employed,True,Cash,657532,10958.87,14,60,2024-05-05,2025-09-28,True,False,Fake information about interest
+CUST00715,Current_NPA,Current_NPA,184,Business,False,Cash,541524,9025.4,16,60,2025-05-11,2025-08-02,True,True,Other
+CUST00716,Current_NPA,Current_NPA,110,Self-Employed,True,Cash,223568,3726.13,1,60,2025-05-12,2025-10-15,True,True,Fake loans/fake businesses
+CUST00717,Current_NPA,Current_NPA,198,Self-Employed,True,Cash,377436,6290.6,2,60,2025-07-04,2025-07-19,True,True,Other
+CUST00718,Current_NPA,Current_NPA,176,Business,False,Digital,274231,4570.52,7,60,2025-09-08,2025-08-10,True,False,Wrong documents/fake address
+CUST00719,Current_NPA,Current_NPA,136,Self-Employed,False,Digital,181556,3025.93,7,60,2024-09-25,2025-09-19,True,False,Other
+CUST00720,Current_NPA,Current_NPA,134,Salaried,True,Cash,278371,4639.52,9,60,2025-06-22,2025-09-21,True,False,Other
+CUST00721,Unclassified,Unclassified,11,Salaried,False,Digital,250862,4181.03,32,60,2025-04-27,2026-01-22,False,False,Fake loans/fake businesses
+CUST00722,Unclassified,Unclassified,27,Self-Employed,False,Cash,272066,4534.43,45,60,2025-10-20,2026-01-06,False,False,Other
+CUST00723,Unclassified,Unclassified,84,Salaried,True,Cash,331226,5520.43,32,60,2025-09-23,2025-11-10,False,False,None
+CUST00724,Unclassified,Unclassified,85,Self-Employed,False,Cash,362986,6049.77,39,60,2025-10-14,2025-11-09,False,False,Other
+CUST00725,Unclassified,Unclassified,53,Business,False,Cash,478011,7966.85,38,60,2024-08-11,2025-12-11,False,False,Other
+CUST00726,Unclassified,Unclassified,72,Salaried,False,Digital,413732,6895.53,14,60,2025-07-30,2025-11-22,False,False,Other
+CUST00727,Unclassified,Unclassified,83,Self-Employed,False,Cash,257669,4294.48,31,60,2025-03-31,2025-11-11,False,False,Business loss
+CUST00728,Unclassified,Unclassified,37,Salaried,False,Cash,449880,7498.0,31,60,2025-08-17,2025-12-27,False,False,Other
+CUST00729,Unclassified,Unclassified,49,Salaried,True,Cash,393313,6555.22,10,60,2024-09-28,2025-12-15,False,False,None
+CUST00730,Unclassified,Unclassified,16,Salaried,True,Digital,205723,3428.72,59,60,2024-08-19,2026-01-17,False,False,None
+CUST00731,Unclassified,Unclassified,33,Salaried,True,Digital,239133,3985.55,34,60,2024-06-27,2025-12-31,False,False,None
+CUST00732,Unclassified,Unclassified,14,Salaried,False,Cash,351842,5864.03,3,60,2025-06-04,2026-01-19,False,False,Other
+CUST00733,Unclassified,Unclassified,50,Salaried,True,Cash,437164,7286.07,56,60,2025-12-31,2025-12-14,False,False,None
+CUST00734,Unclassified,Unclassified,9,Self-Employed,True,Cash,199476,3324.6,32,60,2025-04-02,2026-01-24,False,False,None
+CUST00735,Unclassified,Unclassified,23,Business,False,Cash,456323,7605.38,57,60,2025-07-20,2026-01-10,False,False,Other
+CUST00736,Unclassified,Unclassified,34,Self-Employed,True,Digital,240925,4015.42,14,60,2025-08-16,2025-12-30,False,False,None
+CUST00737,Unclassified,Unclassified,26,Business,True,Cash,775312,12921.87,41,60,2024-05-25,2026-01-07,False,False,None
+CUST00738,Unclassified,Unclassified,51,Salaried,True,Digital,495797,8263.28,47,60,2025-09-19,2025-12-13,False,False,None
+CUST00739,Unclassified,Unclassified,54,Business,False,Digital,525188,8753.13,20,60,2024-04-29,2025-12-10,False,False,Other
+CUST00740,Unclassified,Unclassified,40,Salaried,True,Cash,432745,7212.42,33,60,2025-11-08,2025-12-24,False,False,None
+CUST00741,Unclassified,Unclassified,39,Self-Employed,True,Cash,306164,5102.73,26,60,2024-07-30,2025-12-25,False,False,None
+CUST00742,Unclassified,Unclassified,70,Salaried,True,Digital,304354,5072.57,8,60,2024-07-10,2025-11-24,False,False,None
+CUST00743,Unclassified,Unclassified,74,Self-Employed,True,Digital,586670,9777.83,32,60,2024-07-21,2025-11-20,False,False,None
+CUST00744,Unclassified,Unclassified,56,Salaried,True,Cash,148784,2479.73,45,60,2024-12-05,2025-12-08,False,False,None
+CUST00745,Unclassified,Unclassified,69,Business,True,Digital,612289,10204.82,22,60,2024-05-13,2025-11-25,False,False,None
+CUST00746,Unclassified,Unclassified,78,Business,False,Cash,917875,15297.92,33,60,2024-04-18,2025-11-16,False,False,Other
+CUST00747,Unclassified,Unclassified,17,Business,True,Cash,950046,15834.1,10,60,2024-05-23,2026-01-16,False,False,None
+CUST00748,Unclassified,Unclassified,41,Self-Employed,False,Cash,429349,7155.82,38,60,2025-07-25,2025-12-23,False,False,Other
+CUST00749,Unclassified,Unclassified,1,Self-Employed,True,Cash,687691,11461.52,53,60,2025-03-09,2026-02-01,False,False,None
+CUST00750,Unclassified,Unclassified,19,Business,True,Cash,781529,13025.48,7,60,2024-11-04,2026-01-14,False,False,None
+CUST00751,Unclassified,Unclassified,46,Self-Employed,True,Digital,255185,4253.08,53,60,2025-05-25,2025-12-18,False,False,None
+CUST00752,Unclassified,Unclassified,25,Self-Employed,True,Digital,375461,6257.68,58,60,2025-07-09,2026-01-08,False,False,None
+CUST00753,Unclassified,Unclassified,38,Business,True,Cash,235187,3919.78,11,60,2025-09-29,2025-12-26,False,False,None
+CUST00754,Unclassified,Unclassified,57,Salaried,True,Cash,117509,1958.48,46,60,2025-10-30,2025-12-07,False,False,None
+CUST00755,Unclassified,Unclassified,35,Business,False,Cash,956322,15938.7,35,60,2024-03-04,2025-12-29,False,False,Fake information about interest
+CUST00756,Unclassified,Unclassified,0,Business,True,Cash,605377,10089.62,18,60,2025-08-31,2026-02-02,False,False,None
+CUST00757,Unclassified,Unclassified,63,Business,False,Cash,593445,9890.75,31,60,2025-12-25,2025-12-01,False,False,Fake information about interest
+CUST00758,Unclassified,Unclassified,35,Self-Employed,True,Digital,527218,8786.97,10,60,2024-12-11,2025-12-29,False,False,None
+CUST00759,Unclassified,Unclassified,89,Business,False,Digital,529963,8832.72,26,60,2024-05-30,2025-11-05,False,False,Other
+CUST00760,Unclassified,Unclassified,14,Business,True,Cash,487667,8127.78,47,60,2024-07-28,2026-01-19,False,False,None
+CUST00761,Unclassified,Unclassified,79,Self-Employed,True,Cash,423497,7058.28,58,60,2025-01-11,2025-11-15,False,False,None
+CUST00762,Unclassified,Unclassified,45,Business,True,Cash,326150,5435.83,38,60,2024-07-20,2025-12-19,False,False,None
+CUST00763,Unclassified,Unclassified,71,Business,False,Digital,983123,16385.38,8,60,2025-11-07,2025-11-23,False,False,Other
+CUST00764,Unclassified,Unclassified,8,Salaried,True,Cash,386287,6438.12,36,60,2025-10-12,2026-01-25,False,False,None
+CUST00765,Unclassified,Unclassified,36,Salaried,True,Digital,281071,4684.52,38,60,2024-11-18,2025-12-28,False,False,None
+CUST00766,Unclassified,Unclassified,47,Self-Employed,False,Cash,171576,2859.6,57,60,2024-08-11,2025-12-17,False,False,Other
+CUST00767,Unclassified,Unclassified,76,Salaried,True,Cash,390011,6500.18,8,60,2025-05-28,2025-11-18,False,False,None
+CUST00768,Unclassified,Unclassified,4,Business,False,Cash,266617,4443.62,46,60,2024-07-16,2026-01-29,False,False,Other
+CUST00769,Unclassified,Unclassified,26,Business,False,Cash,979957,16332.62,3,60,2025-12-29,2026-01-07,False,False,Other
+CUST00770,Unclassified,Unclassified,69,Business,True,Cash,684353,11405.88,12,60,2024-03-13,2025-11-25,False,False,None
+CUST00771,Unclassified,Unclassified,36,Self-Employed,False,Cash,686512,11441.87,17,60,2025-09-09,2025-12-28,False,False,Wrong documents/fake address
+CUST00772,Unclassified,Unclassified,2,Business,True,Cash,371929,6198.82,13,60,2024-10-12,2026-01-31,False,False,None
+CUST00773,Unclassified,Unclassified,23,Salaried,True,Cash,280175,4669.58,40,60,2025-12-19,2026-01-10,False,False,None
+CUST00774,Unclassified,Unclassified,58,Business,True,Cash,542776,9046.27,34,60,2025-09-11,2025-12-06,False,False,None
+CUST00775,Unclassified,Unclassified,67,Self-Employed,True,Digital,204225,3403.75,34,60,2025-09-23,2025-11-27,False,False,None
+CUST00776,Unclassified,Unclassified,40,Self-Employed,True,Cash,178930,2982.17,12,60,2025-12-28,2025-12-24,False,False,None
+CUST00777,Unclassified,Unclassified,48,Business,True,Cash,213288,3554.8,7,60,2024-03-31,2025-12-16,False,False,None
+CUST00778,Unclassified,Unclassified,19,Self-Employed,False,Cash,464368,7739.47,60,60,2025-11-09,2026-01-14,False,False,Business loss
+CUST00779,Unclassified,Unclassified,29,Salaried,True,Cash,495065,8251.08,19,60,2024-06-06,2026-01-04,False,False,None
+CUST00780,Unclassified,Unclassified,68,Salaried,True,Cash,269331,4488.85,37,60,2025-07-07,2025-11-26,False,False,None
+CUST00781,Unclassified,Unclassified,35,Salaried,True,Cash,353608,5893.47,18,60,2024-07-19,2025-12-29,False,False,None
+CUST00782,Unclassified,Unclassified,65,Business,False,Cash,536473,8941.22,21,60,2025-02-02,2025-11-29,False,False,Other
+CUST00783,Unclassified,Unclassified,72,Self-Employed,True,Cash,170655,2844.25,46,60,2025-11-06,2025-11-22,False,False,None
+CUST00784,Unclassified,Unclassified,57,Business,True,Digital,610354,10172.57,41,60,2025-06-07,2025-12-07,False,False,None
+CUST00785,Unclassified,Unclassified,81,Self-Employed,False,Cash,239846,3997.43,12,60,2024-12-11,2025-11-13,False,False,Other
+CUST00786,Unclassified,Unclassified,31,Business,True,Digital,744392,12406.53,49,60,2025-09-26,2026-01-02,False,False,None
+CUST00787,Unclassified,Unclassified,17,Self-Employed,False,Cash,611261,10187.68,25,60,2025-08-14,2026-01-16,False,False,Other
+CUST00788,Unclassified,Unclassified,41,Salaried,True,Cash,123723,2062.05,39,60,2025-10-21,2025-12-23,False,False,None
+CUST00789,Unclassified,Unclassified,13,Business,False,Cash,431525,7192.08,45,60,2025-04-24,2026-01-20,False,False,Fake loans/fake businesses
+CUST00790,Unclassified,Unclassified,88,Business,True,Cash,957600,15960.0,28,60,2025-11-13,2025-11-06,False,False,None
+CUST00791,Unclassified,Unclassified,36,Salaried,True,Cash,474340,7905.67,31,60,2024-06-26,2025-12-28,False,False,None
+CUST00792,Unclassified,Unclassified,8,Salaried,True,Cash,397073,6617.88,12,60,2025-12-06,2026-01-25,False,False,None
+CUST00793,Unclassified,Unclassified,2,Salaried,True,Cash,178209,2970.15,3,60,2024-10-31,2026-01-31,False,False,None
+CUST00794,Unclassified,Unclassified,67,Self-Employed,True,Digital,357158,5952.63,23,60,2024-12-07,2025-11-27,False,False,None
+CUST00795,Unclassified,Unclassified,1,Salaried,True,Cash,444043,7400.72,47,60,2025-08-27,2026-02-01,False,False,None
+CUST00796,Unclassified,Unclassified,81,Self-Employed,True,Cash,397113,6618.55,56,60,2024-02-21,2025-11-13,False,False,None
+CUST00797,Unclassified,Unclassified,88,Business,False,Cash,764790,12746.5,3,60,2024-12-03,2025-11-06,False,False,Wrong documents/fake address
+CUST00798,Unclassified,Unclassified,56,Business,True,Digital,855152,14252.53,42,60,2024-09-07,2025-12-08,False,False,None
+CUST00799,Unclassified,Unclassified,65,Salaried,False,Cash,364291,6071.52,40,60,2024-06-25,2025-11-29,False,False,Other
+CUST00800,Unclassified,Unclassified,52,Salaried,True,Digital,399899,6664.98,30,60,2025-04-15,2025-12-12,False,False,None
